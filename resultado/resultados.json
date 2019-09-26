@@ -1,0 +1,242 @@
+[
+  {
+    "id": "1",
+    "modelo": "modelo-resultado.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "1.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-1/5-sexta/",
+    "prefixo": "P2-F0001"
+  },
+  {
+    "id": "2",
+    "modelo": "modelo-resultado.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "2.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-2/5-sexta/",
+    "prefixo": "P2-F0002"
+  },
+  {
+    "id": "3",
+    "modelo": "modelo-resultado.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "3.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-3/5-sexta/",
+    "prefixo": "P2-F0003"
+  },
+  {
+    "id": "4",
+    "modelo": "modelo-resultado.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "4.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-4/5-sexta/",
+    "prefixo": "P2-F0004"
+  },
+  {
+    "id": "5",
+    "modelo": "modelo-resultado.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "5.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-1/5-sexta/",
+    "prefixo": "P2-F0005"
+  },
+  {
+    "id": "6",
+    "modelo": "modelo-resultado.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "6.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-2/5-sexta/",
+    "prefixo": "P2-F0006"
+  },
+  {
+    "id": "7",
+    "modelo": "modelo-resultado.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "7.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-3/5-sexta/",
+    "prefixo": "P2-F0007"
+  },
+  {
+    "id": "8",
+    "modelo": "modelo-resultado.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "8.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-4/5-sexta/",
+    "prefixo": "P2-F0008"
+  },
+  {
+    "id": "9",
+    "modelo": "modelo-resultado.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "9.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-003/semana-1/5-sexta/",
+    "prefixo": "P2-F0009"
+  },
+  {
+    "id": "10",
+    "modelo": "modelo-resultado.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "10.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-003/semana-2/5-sexta/",
+    "prefixo": "P2-F0010"
+  },
+  {
+    "id": "11",
+    "modelo": "modelo-resultado.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "11.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-003/semana-3/5-sexta/",
+    "prefixo": "P2-F0011"
+  },
+  {
+    "id": "12",
+    "modelo": "modelo-resultado.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "12.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-003/semana-4/5-sexta/",
+    "prefixo": "P2-F0012"
+  },
+  {
+    "id": "13",
+    "modelo": "modelo-resultado.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "13.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-004/semana-1/5-sexta/",
+    "prefixo": "P2-F0013"
+  },
+  {
+    "id": "14",
+    "modelo": "modelo-resultado.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "14.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-004/semana-2/5-sexta/",
+    "prefixo": "P2-F0014"
+  },
+  {
+    "id": "15",
+    "modelo": "modelo-resultado.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "15.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-004/semana-3/5-sexta/",
+    "prefixo": "P2-F0015"
+  },
+  {
+    "id": "16",
+    "modelo": "modelo-resultado.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "16.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-004/semana-4/5-sexta/",
+    "prefixo": "P2-F0016"
+  },
+  {
+    "id": "17",
+    "modelo": "modelo-resultado.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "17.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-005/semana-1/5-sexta/",
+    "prefixo": "P2-F0017"
+  },
+  {
+    "id": "18",
+    "modelo": "modelo-resultado.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "18.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-005/semana-2/5-sexta/",
+    "prefixo": "P2-F0018"
+  },
+  {
+    "id": "19",
+    "modelo": "modelo-resultado.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "19.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-005/semana-3/5-sexta/",
+    "prefixo": "P2-F0019"
+  },
+  {
+    "id": "20",
+    "modelo": "modelo-resultado.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "20.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-005/semana-4/5-sexta/",
+    "prefixo": "P2-F0020"
+  }
+]
