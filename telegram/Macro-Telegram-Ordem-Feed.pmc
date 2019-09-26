@@ -1,0 +1,374 @@
+﻿[PMC Code v5.0.5]|F3||1|Window,2,Fast,0,1,Input,-1,-1,1|1|Macro1
+Groups=Pesquisa e Seleciona o Canal:1,Posiciona na Coluna Inicial:45,Posiciona na Linha Inicial:90,Copiar para Clipboard:99,Referência do dia da postagem:107,Ordem da Postagem:138,Caminho Imagem:170,Imagens:213,Texto Post:272,Próxima linha:322,TESTES:368
+1|WinActivate||1|0|WinActivate||Telegram Web - Google Chrome ahk_class Chrome_WidgetWin_1|||
+2|[Pause]||1|150|Sleep|||||
+3|Left Move & Click|313, 158 Left, Down|1|0|Click|||||
+4|[Pause]||1|93|Sleep|||||
+5|Left Move & Click|313, 158 Left, Up|1|0|Click|||||
+6|[Pause]||1|150|Sleep|||||
+7|[Assign Variable]|sAmbiente := Produção|1|0|Variable|||||
+8|Compare Variables|sAmbiente = Produção|1|0|If_Statement|||||
+9|E|{E}|1|0|Send|||||
+10|D|{D}|1|0|Send|||||
+11|Space|{Space}|1|0|Send|||||
+12|O|{O}|1|0|Send|||||
+13|r|{r}|1|0|Send|||||
+14|d|{d}|1|0|Send|||||
+15|e|{e}|1|0|Send|||||
+16|m|{m}|1|0|Send|||||
+17|Space|{Space}|1|0|Send|||||
+18|F|{F}|1|0|Send|||||
+19|e|{e}|1|0|Send|||||
+20|e|{e}|1|0|Send|||||
+21|d|{d}|1|0|Send|||||
+22|[Else]|Else|1|0|If_Statement|||||
+23|t|{t}|1|0|Send|||||
+24|e|{e}|1|0|Send|||||
+25|s|{s}|1|0|Send|||||
+26|t|{t}|1|0|Send|||||
+27|e|{e}|1|0|Send|||||
+28|Space|{Space}|1|0|Send|||||
+29|p|{p}|1|0|Send|||||
+30|o|{o}|1|0|Send|||||
+31|s|{s}|1|0|Send|||||
+32|t|{t}|1|0|Send|||||
+33|a|{a}|1|0|Send|||||
+34|g|{g}|1|0|Send|||||
+35|e|{e}|1|0|Send|||||
+36|m|{m}|1|0|Send|||||
+37|Space|{Space}|1|0|Send|||||
+38|b|{b}|1|0|Send|||||
+39|o|{o}|1|0|Send|||||
+40|t|{t}|1|0|Send|||||
+41|[End If]|EndIf|1|0|If_Statement|||||
+42|[Pause]||1|150|Sleep|||||
+43|Enter|{Enter}|1|0|Send|||||
+44|[Pause]||1|1000|Sleep|||||
+45|WinActivate||1|333|WinActivate||Instagram Coach - Planilhas Google - Google Chrome ahk_class Chrome_WidgetWin_1|||
+46|LControl Down|{LControl Down}|1|0|Send|||||
+47|[Pause]||1|50|Sleep|||||
+48|Home Down|{Home Down}|1|0|Send|||||
+49|[Pause]||1|50|Sleep|||||
+50|Home Up|{Home Up}|1|0|Send|||||
+51|[Pause]||1|50|Sleep|||||
+52|LControl Up|{LControl Up}|1|0|Send|||||
+53|[Pause]||1|50|Sleep|||||
+54|Right Down|{Right Down}|1|50|Send|||||
+55|[Pause]||1|50|Sleep|||||
+56|Right Up|{Right Up}|1|0|Send|||||
+57|[Pause]||1|50|Sleep|||||
+58|Right Down|{Right Down}|1|50|Send|||||
+59|[Pause]||1|50|Sleep|||||
+60|Right Up|{Right Up}|1|0|Send|||||
+61|[Pause]||1|50|Sleep|||||
+62|Right Down|{Right Down}|1|50|Send|||||
+63|[Pause]||1|50|Sleep|||||
+64|Right Up|{Right Up}|1|0|Send|||||
+65|[Pause]||1|50|Sleep|||||
+66|Right Down|{Right Down}|1|50|Send|||||
+67|[Pause]||1|50|Sleep|||||
+68|Right Up|{Right Up}|1|0|Send|||||
+69|[Pause]||1|50|Sleep|||||
+70|Right Down|{Right Down}|1|50|Send|||||
+71|[Pause]||1|50|Sleep|||||
+72|Right Up|{Right Up}|1|0|Send|||||
+73|[Pause]||1|50|Sleep|||||
+74|Right Down|{Right Down}|1|50|Send|||||
+75|[Pause]||1|50|Sleep|||||
+76|Right Up|{Right Up}|1|0|Send|||||
+77|[Pause]||1|50|Sleep|||||
+78|Right Down|{Right Down}|1|50|Send|||||
+79|[Pause]||1|50|Sleep|||||
+80|Right Up|{Right Up}|1|0|Send|||||
+81|[Pause]||1|50|Sleep|||||
+82|Right Down|{Right Down}|1|50|Send|||||
+83|[Pause]||1|50|Sleep|||||
+84|Right Up|{Right Up}|1|0|Send|||||
+85|[Pause]||1|50|Sleep|||||
+86|Right Down|{Right Down}|1|50|Send|||||
+87|[Pause]||1|50|Sleep|||||
+88|Right Up|{Right Up}|1|0|Send|||||
+89|[Pause]||1|50|Sleep|||||
+90|[LoopStart]|LoopStart|87|0|Loop|||||
+91|[Pause]||1|20|Sleep|||||
+92|Down|{Down Down}|1|0|Send|||||
+93|[Pause]||1|20|Sleep|||||
+94|Down|{Down Up}|1|0|Send|||||
+95|[Pause]||1|20|Sleep|||||
+096|[MsgBox]|%nOrdemPost%|1|0|MsgBox|0||||
+097|[Add Variable]|nOrdemPost += 1|1|0|Variable|||||
+98|[LoopEnd]|LoopEnd|1|0|Loop|||||
+99|LControl Down|{LControl Down}|1|0|Send|||||
+100|[Pause]||1|30|Sleep|||||
+101|c Down|{c Down}|1|0|Send|||||
+102|[Pause]||1|30|Sleep|||||
+103|c Up|{c Up}|1|0|Send|||||
+104|[Pause]||1|30|Sleep|||||
+105|LControl Up|{LControl Up}|1|0|Send|||||
+106|[Assign Variable]|nOrdemPost := 1|1|0|Variable|||||
+107|[LoopStart]|LoopStart|18|0|Loop|||||
+108|Compare Variables|nOrdemPost = 1|1|0|If_Statement|0||||
+109|WinActivate||1|0|WinActivate||Telegram Web - Google Chrome ahk_class Chrome_WidgetWin_1|INICIO GRUPO REFERENCIA DO DIA DA POSTAGEM||
+110|LControl Down|{LControl Down}|1|0|Send|||||
+111|[Pause]||1|50|Sleep|||||
+112|v Down|{v Down}|1|0|Send|||||
+113|[Pause]||1|50|Sleep|||||
+114|v Up|{v Up}|1|0|Send|||||
+115|[Pause]||1|15|Sleep|||||
+116|LControl Up|{LControl Up}|1|0|Send|||||
+117|[Pause]||1|100|Sleep|||||
+118|Backspace Down|{Backspace Down}|1|0|Send|||||
+119|[Pause]||1|50|Sleep|||||
+120|Backspace Up|{Backspace Up}|1|0|Send|||||
+121|[Pause]||1|50|Sleep|||||
+122|RControl Down|{RControl Down}|1|0|Send|||||
+123|[Pause]||1|50|Sleep|||||
+124|Home Down|{Home Down}|1|0|Send|||||
+125|[Pause]||1|50|Sleep|||||
+126|RControl Up|{RControl Up}|1|0|Send|||||
+127|[Pause]||1|31|Sleep|||||
+128|Home Up|{Home Up}|1|0|Send|||||
+129|[Pause]||1|200|Sleep|||||
+130|Delete Down|{Delete Down}|1|0|Send|||||
+131|[Pause]||1|63|Sleep|||||
+132|Delete Up|{Delete Up}|1|0|Send|||||
+133|[Pause]||1|200|Sleep|||||
+134|Enter Down|{Enter Down}|1|0|Send|||||
+135|[Pause]||1|31|Sleep|||||
+136|Enter Up|{Enter Up}|1|0|Send|||FIM GRUPO REFERENCIA DO DIA DA POSTAGEM||
+137|[End If]|EndIf|1|0|If_Statement|||||
+138|[Pause]||1|50|Sleep|||INICIO GRUPO ORDEM DA POSTAGEM||
+139|WinActivate||1|0|WinActivate||Instagram Coach - Planilhas Google - Google Chrome ahk_class Chrome_WidgetWin_1|||
+140|[Pause]||1|100|Sleep|||||
+141|Escape Down|{Escape Down}|1|0|Send|||||
+142|[Pause]||1|62|Sleep|||||
+143|Escape Up|{Escape Up}|1|0|Send|||||
+144|[Pause]||1|50|Sleep|||||
+145|Right Down|{Right Down}|1|0|Send|||||
+146|[Pause]||1|50|Sleep|||||
+147|Right Up|{Right Up}|1|0|Send|||||
+148|[Pause]||1|100|Sleep|||||
+149|LControl Down|{LControl Down}|1|0|Send|||||
+150|[Pause]||1|50|Sleep|||||
+151|c Down|{c Down}|1|0|Send|||||
+152|[Pause]||1|50|Sleep|||||
+153|c Up|{c Up}|1|0|Send|||||
+154|[Pause]||1|32|Sleep|||||
+155|LControl Up|{LControl Up}|1|0|Send|||||
+156|[Pause]||1|1000|Sleep|||||
+157|WinActivate||1|0|WinActivate||Telegram Web - Google Chrome ahk_class Chrome_WidgetWin_1|||
+158|[Pause]||1|200|Sleep|||||
+159|LControl Down|{LControl Down}|1|0|Send|||||
+160|[Pause]||1|50|Sleep|||||
+161|v Down|{v Down}|1|0|Send|||||
+162|[Pause]||1|50|Sleep|||||
+163|v Up|{v Up}|1|0|Send|||||
+164|[Pause]||1|31|Sleep|||||
+165|LControl Up|{LControl Up}|1|0|Send|||||
+166|[Pause]||1|100|Sleep|||||
+167|Enter Down|{Enter Down}|1|0|Send|||||
+168|[Pause]||1|50|Sleep|||||
+169|Enter Up|{Enter Up}|1|0|Send|||FIM GRUPO ORDEM DA POSTAGEM||
+170|[Pause]||1|300|Sleep|||INICIO GRUPO CAMINHO IMAGENS||
+171|WinActivate||1|0|WinActivate||Instagram Coach - Planilhas Google - Google Chrome ahk_class Chrome_WidgetWin_1|||
+172|Right Down|{Right Down}|1|0|Send|||||
+173|[Pause]||1|50|Sleep|||||
+174|Right Up|{Right Up}|1|0|Send|||||
+175|[Pause]||1|50|Sleep|||||
+176|Compare Variables|nOrdemPost = 1|1|0|If_Statement|||||
+177|[Pause]||1|50|Sleep|||||
+178|Escape|{Escape Down}|1|0|Send|||||
+179|[Pause]||1|50|Sleep|||||
+180|Escape|{Escape Up}|1|0|Send|||||
+181|[Pause]||1|50|Sleep|||||
+182|LControl Down|{LControl Down}|1|0|Send|||||
+183|[Pause]||1|50|Sleep|||||
+184|c Down|{c Down}|1|0|Send|||||
+185|[Pause]||1|50|Sleep|||||
+186|c Up|{c Up}|1|0|Send|||||
+187|[Pause]||1|50|Sleep|||||
+188|LControl Up|{LControl Up}|1|0|Send|||||
+0189|[Else]|Else|1|0|If_Statement|||||
+0190|[MsgBox]|diferente de um`no valor atual é %nOrdemPost%|1|0|MsgBox|0||||
+191|[End If]|EndIf|1|0|If_Statement|||||
+192|[Pause]||1|100|Sleep|||||
+193|WinActivate||1|0|WinActivate||Telegram Web - Google Chrome ahk_class Chrome_WidgetWin_1|||
+194|Left Move & Click|710, 714 Left, Down|1|0|Click|||||
+195|[Pause]||1|140|Sleep|||||
+196|Left Move & Click|710, 714 Left, Up|1|0|Click|||||
+197|[Pause]||1|500|Sleep|||||
+198|WinActivate||1|0|WinActivate||Abrir ahk_class #32770|||
+199|Compare Variables|nOrdemPost = 1|1|0|If_Statement|||||
+0200|[MsgBox]|aqui 2|1|0|MsgBox|0||||
+201|LControl Down|{LControl Down}|1|0|Send|||||
+202|[Pause]||1|50|Sleep|||||
+203|v Down|{v Down}|1|0|Send|||||
+204|[Pause]||1|63|Sleep|||||
+205|v Up|{v Up}|1|0|Send|||||
+206|[Pause]||1|62|Sleep|||||
+207|LControl Up|{LControl Up}|1|0|Send|||||
+208|[Pause]||1|200|Sleep|||||
+209|Enter Down|{Enter Down}|1|0|Send|||||
+210|[Pause]||1|30|Sleep|||||
+211|Enter Up|{Enter Up}|1|0|Send|||FIM GRUPO CAMINHO IMAGENS||
+212|[End If]|EndIf|1|0|If_Statement|||||
+213|[Pause]||1|100|Sleep|||INICIO GRUPO IMAGENS||
+214|WinActivate||1|0|WinActivate||Instagram Coach - Planilhas Google - Google Chrome ahk_class Chrome_WidgetWin_1|||
+215|[Pause]||1|100|Sleep|||||
+216|Right Down|{Right Down}|1|0|Send|||||
+217|[Pause]||1|50|Sleep|||||
+218|Right Up|{Right Up}|1|0|Send|||||
+219|[Pause]||1|100|Sleep|||||
+220|Right Down|{Right Down}|1|0|Send|||||
+221|[Pause]||1|50|Sleep|||||
+222|Right Up|{Right Up}|1|0|Send|||||
+223|[Pause]||1|50|Sleep|||||
+224|Escape|{Escape Down}|1|0|Send|||||
+225|[Pause]||1|50|Sleep|||||
+226|Escape|{Escape Up}|1|0|Send|||||
+227|[Pause]||1|50|Sleep|||||
+228|LControl Down|{LControl Down}|1|0|Send|||||
+229|[Pause]||1|50|Sleep|||||
+230|c Down|{c Down}|1|0|Send|||||
+231|[Pause]||1|50|Sleep|||||
+232|LControl Up|{LControl Up}|1|0|Send|||||
+233|c Up|{c Up}|1|0|Send|||||
+234|[Pause]||1|100|Sleep|||||
+235|WinActivate||1|0|WinActivate||Abrir ahk_class #32770|||
+236|[Pause]||1|100|Sleep|||||
+237|LControl Down|{LControl Down}|1|0|Send|||||
+238|[Pause]||1|50|Sleep|||||
+239|v Down|{v Down}|1|0|Send|||||
+240|[Pause]||1|50|Sleep|||||
+241|v Up|{v Up}|1|0|Send|||||
+242|[Pause]||1|46|Sleep|||||
+243|LControl Up|{LControl Up}|1|0|Send|||||
+244|[Pause]||1|50|Sleep|||||
+245|NumpadMult Down|{NumpadMult Down}|1|0|Send|||||
+246|[Pause]||1|50|Sleep|||||
+247|NumpadMult Up|{NumpadMult Up}|1|0|Send|||||
+248|[Pause]||1|50|Sleep|||||
+249|Enter Down|{Enter Down}|1|0|Send|||||
+250|[Pause]||1|50|Sleep|||||
+251|Enter Up|{Enter Up}|1|0|Send|||||
+252|[Pause]||1|300|Sleep|||||
+253|LShift Down|{LShift Down}|1|0|Send|||||
+254|[Pause]||1|50|Sleep|||||
+255|Tab Down|{Tab Down}|1|0|Send|||||
+256|[Pause]||1|50|Sleep|||||
+257|Tab Up|{Tab Up}|1|0|Send|||||
+258|[Pause]||1|50|Sleep|||||
+259|LShift Up|{LShift Up}|1|0|Send|||||
+260|[Pause]||1|100|Sleep|||||
+261|LControl Down|{LControl Down}|1|0|Send|||||
+262|[Pause]||1|50|Sleep|||||
+263|a Down|{a Down}|1|0|Send|||||
+264|[Pause]||1|50|Sleep|||||
+265|a Up|{a Up}|1|0|Send|||||
+266|[Pause]||1|50|Sleep|||||
+267|LControl Up|{LControl Up}|1|0|Send|||||
+268|[Pause]||1|1000|Sleep|||||
+269|Enter Down|{Enter Down}|1|0|Send|||||
+270|[Pause]||1|50|Sleep|||||
+271|Enter Up|{Enter Up}|1|0|Send|||FIM GRUPO IMAGENS||
+272|Compare Variables|Clipboard contains P1-M`,P3-C|1|0|If_Statement|0||INICIO GRUPO TEXTO POST||
+273|[Pause]||1|3000|Sleep|||||
+274|[Else]|Else|1|0|If_Statement|||||
+275|[Pause]||1|15000|Sleep|||||
+276|[End If]|EndIf|1|0|If_Statement|||||
+277|WinActivate||1|0|WinActivate||Instagram Coach - Planilhas Google - Google Chrome ahk_class Chrome_WidgetWin_1|||
+278|Escape Down|{Escape Down}|1|0|Send|||||
+279|[Pause]||1|50|Sleep|||||
+280|Escape Up|{Escape Up}|1|0|Send|||||
+281|[Pause]||1|50|Sleep|||||
+282|Right Down|{Right Down}|1|0|Send|||||
+283|[Pause]||1|50|Sleep|||||
+284|Right Up|{Right Up}|1|0|Send|||||
+285|[Pause]||1|50|Sleep|||||
+286|LControl Down|{LControl Down}|1|0|Send|||||
+287|[Pause]||1|50|Sleep|||||
+288|c Down|{c Down}|1|0|Send|||||
+289|[Pause]||1|50|Sleep|||||
+290|c Up|{c Up}|1|0|Send|||||
+291|[Pause]||1|50|Sleep|||||
+292|LControl Up|{LControl Up}|1|0|Send|||||
+293|[Pause]||1|100|Sleep|||||
+294|WinActivate||1|0|WinActivate||Telegram Web - Google Chrome ahk_class Chrome_WidgetWin_1|||
+295|[Pause]||1|100|Sleep|||||
+296|LControl Down|{LControl Down}|1|0|Send|||||
+297|[Pause]||1|50|Sleep|||||
+298|v Down|{v Down}|1|0|Send|||||
+299|[Pause]||1|50|Sleep|||||
+300|v Up|{v Up}|1|0|Send|||||
+301|[Pause]||1|50|Sleep|||||
+302|LControl Up|{LControl Up}|1|0|Send|||||
+303|[Pause]||1|50|Sleep|||||
+304|Backspace Down|{Backspace Down}|1|0|Send|||||
+305|[Pause]||1|50|Sleep|||||
+306|Backspace Up|{Backspace Up}|1|0|Send|||||
+307|[Pause]||1|50|Sleep|||||
+308|LControl Down|{LControl Down}|1|0|Send|||||
+309|[Pause]||1|50|Sleep|||||
+310|Home Down|{Home Down}|1|0|Send|||||
+311|[Pause]||1|50|Sleep|||||
+312|Home Up|{Home Up}|1|0|Send|||||
+313|[Pause]||1|15|Sleep|||||
+314|LControl Up|{LControl Up}|1|0|Send|||||
+315|[Pause]||1|50|Sleep|||||
+316|Delete Down|{Delete Down}|1|0|Send|||||
+317|[Pause]||1|50|Sleep|||||
+318|Delete Up|{Delete Up}|1|0|Send|||||
+319|Enter|{Enter Down}|1|0|Send|||||
+320|[Pause]||1|50|Sleep|||||
+321|Enter|{Enter Up}|1|0|Send|||FIM GRUPO TEXTO POST||
+322|[Pause]||1|100|Sleep|||INICIO GRUPO PRÓXIMA LINHA||
+0323|[MsgBox]|vamos para a próxima linha|1|0|MsgBox|0||||
+324|WinActivate||1|0|WinActivate||Instagram Coach - Planilhas Google - Google Chrome ahk_class Chrome_WidgetWin_1|||
+325|[Pause]||1|100|Sleep|||||
+326|Escape|{Escape Down}|1|0|Send|||||
+327|[Pause]||1|50|Sleep|||||
+328|Escape|{Escape Up}|1|0|Send|||||
+329|[Pause]||1|50|Sleep|||||
+330|Down|{Down Down}|1|0|Send|||||
+331|[Pause]||1|50|Sleep|||||
+332|Down|{Down Up}|1|0|Send|||||
+333|[Pause]||1|50|Sleep|||||
+334|Left|{Left Down}|1|0|Send|||||
+335|[Pause]||1|50|Sleep|||||
+336|Left|{Left Up}|1|0|Send|||||
+337|[Pause]||1|50|Sleep|||||
+338|Left|{Left Down}|1|0|Send|||||
+339|[Pause]||1|50|Sleep|||||
+340|Left|{Left Up}|1|0|Send|||||
+341|[Pause]||1|50|Sleep|||||
+342|Left|{Left Down}|1|0|Send|||||
+343|[Pause]||1|50|Sleep|||||
+344|Left|{Left Up}|1|0|Send|||||
+345|[Pause]||1|50|Sleep|||||
+346|Left|{Left Down}|1|0|Send|||||
+347|[Pause]||1|50|Sleep|||||
+348|Left|{Left Up}|1|0|Send|||||
+349|[Pause]||1|50|Sleep|||||
+350|Left|{Left Down}|1|0|Send|||||
+351|[Pause]||1|50|Sleep|||||
+352|Left|{Left Up}|1|0|Send|||||
+0353|[MsgBox]|%nOrdemPost%|1|0|MsgBox|0||||
+354|Compare Variables|nOrdemPost = 3|1|0|If_Statement|0||||
+355|[Assign Variable]|nOrdemPost := 1|1|0|Variable|||||
+356|[Else]|Else|1|0|If_Statement|||||
+357|[Add Variable]|nOrdemPost += 1|1|0|Variable|||||
+358|[End If]|EndIf|1|0|If_Statement|||||
+359|LControl Down|{LControl Down}|1|0|Send|||||
+360|[Pause]||1|50|Sleep|||||
+361|c Down|{c Down}|1|0|Send|||||
+362|[Pause]||1|50|Sleep|||||
+363|c Up|{c Up}|1|0|Send|||||
+364|[Pause]||1|50|Sleep|||||
+365|LControl Up|{LControl Up}|1|0|Send|||||
+366|[Pause]||1|100|Sleep|||||
+367|[LoopEnd]|LoopEnd|1|0|Loop|||FIM GRUPO PRÓXIMA LINHA||
+0368|[LoopStart]|LoopStart|2|0|Loop|||||
+0369|[MsgBox]|%nOrdemPost%|1|0|MsgBox|0||||
+0370|[Add Variable]|nOrdemPost += 1|1|0|Variable|||||
+0371|[LoopEnd]|LoopEnd|1|0|Loop|||||
+

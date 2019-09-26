@@ -1,0 +1,517 @@
+[
+  {
+    "id": "1",
+    "modelo": "modelo-marque-1.psd",
+    "titulo": [
+      "Marque sua amiga",
+      "que vai começar a dieta",
+      "Com Você!"
+    ],
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "D",
+      "girar": "N",
+      "nome": "1.png"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-1/1-segunda/",
+    "prefixo": "P1-Ma0001"
+  },
+  {
+    "id": "2",
+    "modelo": "modelo-marque-1.psd",
+    "titulo": [
+      "Marque sua amiga",
+      "que vai começar a malhar",
+      "Com Você!"
+    ],
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "D",
+      "girar": "N",
+      "nome": "2.png"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-1/2-terça/",
+    "prefixo": "P1-Ma0002"
+  },
+  {
+    "id": "3",
+    "modelo": "modelo-marque-1.psd",
+    "titulo": [
+      "Marque sua amiga",
+      "que comeria até",
+      "Essa Foto!"
+    ],
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "D",
+      "girar": "N",
+      "nome": "3.png"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-1/3-quarta/",
+    "prefixo": "P1-Ma0003"
+  },
+  {
+    "id": "4",
+    "modelo": "modelo-marque-1.psd",
+    "titulo": [
+      "Marque a pessoa",
+      "que está te devendo um",
+      "Bolo assim"
+    ],
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "4.png"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-1/4-quinta/",
+    "prefixo": "P1-Ma0004"
+  },
+  {
+    "id": "5",
+    "modelo": "modelo-marque-1.psd",
+    "titulo": [
+      "Marque sua amiga",
+      "que vai começar esse desafio",
+      "Com Você"
+    ],
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "5.png"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-1/5-sexta/",
+    "prefixo": "P1-Ma0005"
+  },
+  {
+    "id": "6",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "D",
+      "girar": "N",
+      "nome": "6.png"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-1/6-sábado/",
+    "prefixo": "P1-Ma0006"
+  },
+  {
+    "id": "7",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "7.png"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-1/7-domingo/",
+    "prefixo": "P1-Ma0007"
+  },
+  {
+    "id": "8",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "E",
+      "girar": "S",
+      "nome": "8.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-2/1-segunda/",
+    "prefixo": "P1-Ma0008"
+  },
+  {
+    "id": "9",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "E",
+      "girar": "S",
+      "nome": "9.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-2/2-terça/",
+    "prefixo": "P1-Ma0009"
+  },
+  {
+    "id": "10",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "S",
+      "nome": "10.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-2/3-quarta/",
+    "prefixo": "P1-Ma0010"
+  },
+  {
+    "id": "11",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "E",
+      "girar": "N",
+      "nome": "11.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-2/4-quinta/",
+    "prefixo": "P1-Ma0011"
+  },
+  {
+    "id": "12",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "E",
+      "girar": "N",
+      "nome": "12.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-2/5-sexta/",
+    "prefixo": "P1-Ma0012"
+  },
+  {
+    "id": "13",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "D",
+      "girar": "N",
+      "nome": "13.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-2/6-sábado/",
+    "prefixo": "P1-Ma0013"
+  },
+  {
+    "id": "14",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "D",
+      "girar": "N",
+      "nome": "14.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-2/7-domingo/",
+    "prefixo": "P1-Ma0014"
+  },
+  {
+    "id": "15",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "15.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-3/1-segunda/",
+    "prefixo": "P1-Ma0015"
+  },
+  {
+    "id": "16",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "E",
+      "girar": "N",
+      "nome": "16.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-3/2-terça/",
+    "prefixo": "P1-Ma0016"
+  },
+  {
+    "id": "17",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "D",
+      "girar": "N",
+      "nome": "17.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-3/3-quarta/",
+    "prefixo": "P1-Ma0017"
+  },
+  {
+    "id": "18",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "18.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-3/4-quinta/",
+    "prefixo": "P1-Ma0018"
+  },
+  {
+    "id": "19",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "E",
+      "girar": "S",
+      "nome": "19.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-3/5-sexta/",
+    "prefixo": "P1-Ma0019"
+  },
+  {
+    "id": "20",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "E",
+      "girar": "S",
+      "nome": "20.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-3/6-sábado/",
+    "prefixo": "P1-Ma0020"
+  },
+  {
+    "id": "21",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "21.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-3/7-domingo/",
+    "prefixo": "P1-Ma0021"
+  },
+  {
+    "id": "22",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "22.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-4/1-segunda/",
+    "prefixo": "P1-Ma0022"
+  },
+  {
+    "id": "23",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "23.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-4/2-terça/",
+    "prefixo": "P1-Ma0023"
+  },
+  {
+    "id": "24",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "E",
+      "girar": "N",
+      "nome": "24.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-4/3-quarta/",
+    "prefixo": "P1-Ma0024"
+  },
+  {
+    "id": "25",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "25.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-4/4-quinta/",
+    "prefixo": "P1-Ma0025"
+  },
+  {
+    "id": "26",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "26.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-4/5-sexta/",
+    "prefixo": "P1-Ma0026"
+  },
+  {
+    "id": "27",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "27.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-4/6-sábado/",
+    "prefixo": "P1-Ma0027"
+  },
+  {
+    "id": "28",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "E",
+      "girar": "S",
+      "nome": "28.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-4/7-domingo/",
+    "prefixo": "P1-Ma0028"
+  },
+  {
+    "id": "29",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "29.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-1/1-segunda/",
+    "prefixo": "P1-Ma0029"
+  },
+  {
+    "id": "30",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "E",
+      "girar": "S",
+      "nome": "30.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-1/2-terça/",
+    "prefixo": "P1-Ma0030"
+  },
+  {
+    "id": "31",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "E",
+      "girar": "S",
+      "nome": "31.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-1/3-quarta/",
+    "prefixo": "P1-Ma0031"
+  },
+  {
+    "id": "32",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "E",
+      "girar": "N",
+      "nome": "32.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-1/4-quinta/",
+    "prefixo": "P1-Ma0032"
+  },
+  {
+    "id": "33",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "E",
+      "girar": "S",
+      "nome": "33.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-1/5-sexta/",
+    "prefixo": "P1-Ma0033"
+  },
+  {
+    "id": "34",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "E",
+      "girar": "N",
+      "nome": "34.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-1/6-sábado/",
+    "prefixo": "P1-Ma0034"
+  },
+  {
+    "id": "35",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "35.png"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-1/7-domingo/",
+    "prefixo": "P1-Ma0035"
+  },
+  {
+    "id": "36",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "nome": "36.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-2/1-segunda/",
+    "prefixo": "P1-Ma0036"
+  },
+  {
+    "id": "37",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "nome": "37.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-2/2-terça/",
+    "prefixo": "P1-Ma0037"
+  },
+  {
+    "id": "38",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "nome": "38.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-2/3-quarta/",
+    "prefixo": "P1-Ma0038"
+  },
+  {
+    "id": "39",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "nome": "39.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-2/4-quinta/",
+    "prefixo": "P1-Ma0039"
+  },
+  {
+    "id": "40",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "nome": "40.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-2/5-sexta/",
+    "prefixo": "P1-Ma0040"
+  },
+  {
+    "id": "41",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "nome": "41.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-2/6-sábado/",
+    "prefixo": "P1-Ma0041"
+  },
+  {
+    "id": "42",
+    "modelo": "modelo-marque-1.psd",
+    "dirBase": "/base/",
+    "imagem": {
+      "nome": "42.jpg"
+    },
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-2/7-domingo/",
+    "prefixo": "P1-Ma0042"
+  }
+]

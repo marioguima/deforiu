@@ -1,0 +1,1 @@
+set shell = CreateObject("WScript.Shell"):shell.SendKeys "cscript ""E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\telegram\enviarMensagemTelegram.vbs"" ""descrição"" {ENTER}"

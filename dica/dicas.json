@@ -1,0 +1,1193 @@
+[
+  {
+    "id": "1",
+    "modelo": "modelo-dica.psd",
+    "titulo": [
+      "MELHORES ALIMENTOS",
+      "Diuréticos"
+    ],
+    "episodio": "1",
+    "dirBase": "/base/D0001/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "1.png"
+    },
+    "itens": [
+      {
+        "imagem": {
+          "posicao": "T",
+          "girar": "S",
+          "nome": "2.png"
+        },
+        "titulo": "IMPORTÂNCIA DOS DIURÉTICOS",
+        "texto": "A retenção pode causar inchaço nas mãos, pés, tornozelos e pernas e prejudica a perda de peso. Esses alimentos são ideias para combater esses problemas, e trazem diversos outros benefícios."
+      },
+      {
+        "imagem": {
+          "posicao": "T",
+          "girar": "true",
+          "nome": "3.png"
+        },
+        "titulo": "AGRIÃO",
+        "texto": "Possui baixo teor calórico, apenas 22 calorias em cada 100 gramas. Além do poder diurético, é considerado uma das principais fontes de vitamina A, e apresenta vitaminas do complexo B e vitamina C."
+      },
+      {
+        "imagem": {
+          "posicao": "T",
+          "girar": "true",
+          "nome": "4.png"
+        },
+        "titulo": "SALSÃO E SALSINHA",
+        "texto": "Tanto o salsão quanto a salsinha aumentam a produção de urina e a excreção de ácido úrico, permitindo que o corpo desintoxique de maneira natural. Ambos também contêm vários tipos de antioxidantes."
+      },
+      {
+        "imagem": {
+          "posicao": "F",
+          "girar": "true",
+          "nome": "5.png"
+        },
+        "titulo": "ESPINAFRE",
+        "texto": "Contém asparagina, um aminoácido que proporciona ao aspargo, o seu poder diurético. Além disso, contém alto teor de fibras, e tem baixas calorias, contribuindo para um melhor funcionamento do intestino."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "S",
+          "nome": "6.png"
+        },
+        "titulo": "ASPARGO",
+        "texto": "O aspargo também permite tratar as dores da artrite, reumatismo e a retenção de líquidos, que pode causar a síndrome pré-menstrual."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "false",
+          "nome": "7.png"
+        },
+        "titulo": "ALCACHOFRA",
+        "texto": "É conhecida pela capacidade que apresenta para ajudar a melhorar as funções dos rins. A alcachofra também contém flavonoides, ácido cafeico, vitaminas e minerais, que causam efeito diurético."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "false",
+          "nome": "8.png"
+        },
+        "titulo": "PEPINO",
+        "texto": "Excelente diurético natural, devido ao seu alto teor de água. O pepino também contém silício e enxofre, essenciais para ajudar na eliminação de ácido úrico pelos rins, diminuindo a retenção de líquidos."
+      }
+    ],
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-1/2-terça/",
+    "prefixo": "P2-D0001-"
+  },
+  {
+    "id": "2",
+    "modelo": "modelo-dica.psd",
+    "titulo": [
+      "COMO PERDER GORDURA",
+      "Abdominal"
+    ],
+    "episodio": "1",
+    "dirBase": "/base/D0002/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "1.png"
+    },
+    "itens": [
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "N",
+          "nome": "2.png"
+        },
+        "titulo": "FIBRA SOLÚVEL",
+        "texto": "Ajudam o sistema digestivo. Promove a perda de peso e ajuda na saciedade. Diminui a quantidade de calorias absorvida; combate a gordura da barriga. Consuma alimentos ricos em fibras todos os dias."
+      },
+      {
+        "imagem": {
+          "posicao": "D",
+          "girar": "false",
+          "nome": "3.png"
+        },
+        "titulo": "EVITE GORDURAS TRANS",
+        "texto": "As parcialmente hidrogenadas também. Elas são associadas a inflamação, doença cardíaca, resistência à insulina e ganho de gordura abdominal. Leia sempre os rótulos de ingredientes com cuidado."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "false",
+          "nome": "4.png"
+        },
+        "titulo": "EVITE O ÁLCOOL",
+        "texto": "O álcool aumenta a gordura na barriga. Beber cerveja engorda, definitivamente, se consumida em excesso. Possui calorias, e o efeito do álcool no seu metabolismo pode resultar no ganho de peso."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "false",
+          "nome": "5.png"
+        },
+        "titulo": "DIETA RICA EM PROTEÍNAS",
+        "texto": "Proteína ajuda aumentar a taxa metabólica e a manter a massa muscular durante a perda de peso. Pessoas que comem mais proteína tendem a ter menos gordura abdominal. Boas fontes de proteína: carne, peixe ou ovos."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "N",
+          "nome": "6.png"
+        },
+        "titulo": "DIMINUA SEU ESTRESSE",
+        "texto": "O estresse pode fazer você ganhar gordura na barriga, produzindo cortisol. Altos níveis de cortisol aumentam o apetite e favorecem o acúmulo de gordura abdominal e gordura visceral. Atividade física pode ajudar."
+      }
+    ],
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-1/4-quinta/",
+    "prefixo": "P2-D0002-"
+  },
+  {
+    "id": "3",
+    "modelo": "modelo-dica.psd",
+    "titulo": [
+      "DIFICULDADE PARA",
+      "Emagrecer"
+    ],
+    "episodio": "1",
+    "dirBase": "/base/D0003/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "1.png"
+    },
+    "itens": [
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "S",
+          "nome": "2.png"
+        },
+        "titulo": "DIFICULDADE DE EMAGRECER?",
+        "texto": "Conheça os Principais Motivos que Podem Explicar a sua Dificuldade em Perder Gordura.\n\nEssa é uma série de 3 episódios.\nEpisódio 1 de 3"
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "true",
+          "nome": "3.png"
+        },
+        "titulo": "QUALIDADE DO SONO",
+        "texto": "Segundo Breus, ao dormir as gorduras são transformadas em energia mais rapidamente. Mas é preciso dormir pelo menos 7 horas e meia por noite. Daí o seu metabolismo se acelera;"
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "false",
+          "nome": "4.png"
+        },
+        "titulo": "PÃO X TAPIOCA",
+        "texto": "Quatro colheres de sopa de tapioca e um pão francês de 50 gramas, ambos possuem 140 calorias. “Em matéria de caloria, não muda nada. Nenhum deles tem fibra."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "false",
+          "nome": "5.png"
+        },
+        "titulo": "SUCO DE FRUTA",
+        "texto": "Sucos sempre foram uma opção saudável. No entanto, é assustador descobrir que o suco de laranja recém-espremido pode ter tanto açúcar quanto Coca-Cola, e conter mais calorias do que uma lata do refrigerante."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "S",
+          "nome": "6.png"
+        },
+        "titulo": "ANTICONCEPCIONAL",
+        "texto": "O anticoncepcional é feito à base de hormônio, que pode reter líquidos no corpo. O que pode ocorrer é o fato da pessoa se sentir mais inchada. A retenção de líquidos causa a sensação de aumento de peso."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "true",
+          "nome": "7.png"
+        },
+        "titulo": "BARRINHAS FIT",
+        "texto": "Você consome bolachas e barrinhas \"fit\" com 74 grãos como lanches diários?\nAs barras de cereais consumidas em excesso, engorda, pois contém açúcar e muitas contêm chocolate e bastantes calorias."
+      }
+    ],
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-1/7-domingo/",
+    "prefixo": "P2-D0003-"
+  },
+  {
+    "id": "4",
+    "modelo": "modelo-dica.psd",
+    "titulo": [
+      "MELHORES ALIMENTOS",
+      "Diuréticos"
+    ],
+    "episodio": "2",
+    "dirBase": "/base/D0004/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "1.png"
+    },
+    "itens": [
+      {
+        "imagem": {
+          "posicao": "E",
+          "girar": "S",
+          "nome": "2.png"
+        },
+        "titulo": "CENOURA",
+        "texto": "Além da capacidade diurética, também ajuda a desintoxicar o corpo e a acelerar o metabolismo. É rica em vitaminas, minerais e antioxidantes."
+      },
+      {
+        "imagem": {
+          "posicao": "E",
+          "girar": "true",
+          "nome": "3.png"
+        },
+        "titulo": "BETERRABA",
+        "texto": "Tem poder diurético e é rica em antioxidantes. A betalaína, antioxidante específico, é um dos compostos da beterraba e traz vários benefícios para o funcionamento do organismo."
+      },
+      {
+        "imagem": {
+          "posicao": "E",
+          "girar": "true",
+          "nome": "4.png"
+        },
+        "titulo": "BERINJELA",
+        "texto": "Possui alto teor de água, o que ajuda melhorar a circulação. Tem também alto conteúdo de flavonoides, o que permite a considerar como excelente diurético natural."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "false",
+          "nome": "5.png"
+        },
+        "titulo": "PIMENTÃO",
+        "texto": "Excelente diurético, também é rico em fibra, vitaminas, hidratos de carbono e antioxidantes, sobretudo a vitamina C."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "N",
+          "nome": "6.png"
+        },
+        "titulo": "TOMATE",
+        "texto": "Composto por 90% de água, possui grande quantidade de antioxidantes, licopeno, betacaroteno, vitamina C e selênio, muito úteis na prevenção dos radicais livres, que podem danificar as paredes dos vasos sanguíneos."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "false",
+          "nome": "7.png"
+        },
+        "titulo": "CEBOLA",
+        "texto": "Importante diurético natural e capaz de prevenir doenças como câncer, diabetes, infecções no intestino e fortalecer o sistema imunológico.\nA cebola também possui grande quantidade de vitamina B."
+      },
+      {
+        "imagem": {
+          "posicao": "E",
+          "girar": "true",
+          "nome": "8.png"
+        },
+        "titulo": "ALHO",
+        "texto": "Age como diurético e oferece efeito de limpeza ao organismo. A forma mais indicada de consumir o produto para tal benefício é em sua forma natural ou em pó."
+      }
+    ],
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-2/2-terça/",
+    "prefixo": "P2-D0004-"
+  },
+  {
+    "id": "5",
+    "modelo": "modelo-dica.psd",
+    "titulo": [
+      "COMO PERDER GORDURA",
+      "Abdominal"
+    ],
+    "episodio": "2",
+    "dirBase": "/base/D0005/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "1.png"
+    },
+    "itens": [
+      {
+        "imagem": {
+          "posicao": "F",
+          "girar": "N",
+          "nome": "2.png"
+        },
+        "titulo": "EVITE DOCES",
+        "texto": "Açúcar está associado a doenças como diabetes tipo 2, obesidade e outras. Açúcar pode aumentar a gordura abdominal. Mesmo os “saudáveis”, como xylitol e a stevia, devem ser usados com moderação."
+      },
+      {
+        "imagem": {
+          "posicao": "E",
+          "girar": "true",
+          "nome": "3.png"
+        },
+        "titulo": "EXERCÍCIO AERÓBIO (CÁRDIO)",
+        "texto": "Mulheres que estão em pós-menopáusicas perdem mais gordura em todas as áreas, quando fazem exercício aeróbio durante 300 minutos por semana em comparação com 150 minutos por semana."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "false",
+          "nome": "4.png"
+        },
+        "titulo": "CORTE CARBOIDRATOS",
+        "texto": "Dietas com menos de 50 gramas de carboidratos por dia causam perda de gordura visceral em obesos e pessoas em risco de diabetes tipo 2. Evite os refinados para ajudar seu metabolismo reduzir gordura da barriga."
+      },
+      {
+        "imagem": {
+          "posicao": "E",
+          "girar": "true",
+          "nome": "5.png"
+        },
+        "titulo": "ÓLEO DE COCO",
+        "texto": "Pode ajudar a perder gordura abdominal quando utilizado cerca de 2 colheres de sopa (30 ml) de óleo de coco por dia, que é a quantidade usada na maioria dos estudos que relatam bons resultados."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "S",
+          "nome": "6.png"
+        },
+        "titulo": "TREINOS DE RESISTÊNCIA",
+        "texto": "É importante para a preservação e ganho de massa muscular.\nUma combinação de treinamento de força, e exercícios aeróbicos pode ajudar a emagrecer."
+      }
+    ],
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-2/4-quinta/",
+    "prefixo": "P2-D0005-"
+  },
+  {
+    "id": "6",
+    "modelo": "modelo-dica.psd",
+    "titulo": [
+      "DIFICULDADE PARA",
+      "Emagrecer"
+    ],
+    "episodio": "2",
+    "dirBase": "/base/D0006/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "S",
+      "nome": "1.png"
+    },
+    "itens": [
+      {
+        "imagem": {
+          "posicao": "D",
+          "girar": "N",
+          "nome": "2.png"
+        },
+        "titulo": "DIFICULDADE DE EMAGRECER?",
+        "texto": "Conheça os Principais Motivos que Podem Explicar a sua Dificuldade em Perder Gordura.\nEssa é uma série de 3 episódios.\nEpisódio 2 de 3"
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "false",
+          "nome": "3.png"
+        },
+        "titulo": "ZERO, DIET, LIGHT, FIT...",
+        "texto": "Refrigerantes geram gases, inchaço e desconforto. Sobrecarregam o fígado com o excesso de insulina. Transformando o excesso de glicose em gordura – mesmo que tome a versão “zero” calorias."
+      },
+      {
+        "imagem": {
+          "posicao": "F",
+          "girar": "false",
+          "nome": "4.png"
+        },
+        "titulo": "PRISÃO DE VENTRE",
+        "texto": "Seu intestino não funciona bem?\nEvitar a prisão de ventre é fundamental para cuidar da nossa saúde em geral. Perceba com aqueles quilos a mais poderão desaparecer no momento em que regularmos o intestino."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "false",
+          "nome": "5.png"
+        },
+        "titulo": "STRESS",
+        "texto": "Considerado um dos maiores vilões da epidemia da obesidade. Estudos mostram que adultos que são cronicamente estressados estão mais propensos à obesidade persistente."
+      },
+      {
+        "imagem": {
+          "posicao": "F",
+          "girar": "N",
+          "nome": "6.png"
+        },
+        "titulo": "FIM DE SEMANA",
+        "texto": "Fazer “exceções” todo fim de semana, achando que tem controle, passar dos limites e se arrepender depois, tentando uma dieta maluca, muitas vezes, colocando a saúde em risco."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "false",
+          "nome": "7.png"
+        },
+        "titulo": "CERVEJA",
+        "texto": "Beber cerveja engorda, definitivamente, se consumida em excesso. Contem calorias e o efeito do álcool da cerveja no seu metabolismo pode resultar em ganho de peso."
+      }
+    ],
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-2/7-domingo/",
+    "prefixo": "P2-D0006-"
+  },
+  {
+    "id": "7",
+    "modelo": "modelo-dica.psd",
+    "titulo": [
+      "COMO PERDER GORDURA",
+      "Abdominal"
+    ],
+    "episodio": "3",
+    "dirBase": "/base/D0007/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "1.png"
+    },
+    "itens": [
+      {
+        "imagem": {
+          "posicao": "E",
+          "girar": "S",
+          "nome": "2.png"
+        },
+        "titulo": "EVITE BEBIDAS AÇUCARADAS",
+        "texto": "Bebidas adoçadas com açúcar são carregadas com frutose, que pode aumentar a gordura visceral, eleva o nível de gordura no fígado.\nPara perder gordura da barriga, evite refrigerantes, sucos e misturas alcoólicas que contém açúcar."
+      },
+      {
+        "imagem": {
+          "posicao": "E",
+          "girar": "true",
+          "nome": "3.png"
+        },
+        "titulo": "DURMA BEM",
+        "texto": "Pessoas que não dormem o suficiente tendem a ganhar mais peso, o que inclui a gordura da barriga.\nA apneia do sono, também é associada a excesso de gordura visceral.\nDurma pelo menos 7 horas por noite."
+      },
+      {
+        "imagem": {
+          "posicao": "E",
+          "girar": "true",
+          "nome": "4.png"
+        },
+        "titulo": "ALIMENTAÇÃO E EXERCÍCIOS",
+        "texto": "Consumir menos calorias do que seu corpo precisa para manutenção do peso é fundamental.\nManter um diário alimentar pode ajudar a monitorar sua ingestão de calorias."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "false",
+          "nome": "5.png"
+        },
+        "titulo": "PEIXE GORDO",
+        "texto": "Ricos em gorduras, proteína e ômega- 3 que podem ajudar a reduzir a gordura visceral.\nProcure obter 2-3 porções por semana. Como salmão, arenque, sardinha, cavala e anchova."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "S",
+          "nome": "6.png"
+        },
+        "titulo": "CORTE O SUCO DE FRUTAS",
+        "texto": "Sucos tem vitaminas mas são ricos em açúcar, assim como refrigerantes.\nSubstitua o suco de fruta por água, chá gelado sem açúcar ou com uma fatia de limão."
+      }
+    ],
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-3/2-terça/",
+    "prefixo": "P2-D0007-"
+  },
+  {
+    "id": "8",
+    "modelo": "modelo-dica.psd",
+    "titulo": [
+      "DIFICULDADE PARA",
+      "Emagrecer"
+    ],
+    "episodio": "3",
+    "dirBase": "/base/D0008/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "S",
+      "nome": "1.png"
+    },
+    "itens": [
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "N",
+          "nome": "2.png"
+        },
+        "titulo": "DIFICULDADE DE EMAGRECER?",
+        "texto": "Essa é uma série de 3 episódios.\nÚltimo Episódio\nVocê acompanhou essa série? Não?\nVeja os episódios anteriores, tenho certeza que irá ajudar muito."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "false",
+          "nome": "3.png"
+        },
+        "titulo": "CASTANHAS",
+        "texto": "Castanha de caju contém muitas fibras, ajuda na digestão e na perda de peso se consumida com moderação (comer muita castanha de caju engorda, assim como qualquer outro alimento calórico)"
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "false",
+          "nome": "4.png"
+        },
+        "titulo": "GLÚTEN FREE (ZERO GLÚTEN)",
+        "texto": "Você trocou os farináceos por versões glúten free feitas com farinhas ricas em carboidrato (de arroz, por exemplo) e geralmente consome todos os dias, mais de uma vez ao dia, em porções generosas"
+      },
+      {
+        "imagem": {
+          "posicao": "D",
+          "girar": "false",
+          "nome": "5.png"
+        },
+        "titulo": "TV ENGORDA",
+        "texto": "Pesquisa com 21.712 mulheres concluiu que assistir tv por várias horas podem estimular o sedentarismo e a ingestão calórica, assim como diminuir a atividade física, predispondo ao sobrepeso e a obesidade."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "N",
+          "nome": "6.png"
+        },
+        "titulo": "NUTRIÇÃO EQUILIBRADA",
+        "texto": "Deficiência nutricional pode causar compulsão alimentar. Segundo o prof. Michael, o aumento da ingestão de vitamina D pode prevenir, ou ajudar a tratar diversos tipos de câncer e também a obesidade."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "false",
+          "nome": "7.png"
+        },
+        "titulo": "PROCURE AJUDA",
+        "texto": "Existem outras possibilidades também, mas como cada caso é um caso, busque sempre acompanhamento específico"
+      }
+    ],
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-3/4-quinta/",
+    "prefixo": "P2-D0008-"
+  },
+  {
+    "id": "9",
+    "modelo": "modelo-dica.psd",
+    "titulo": [
+      "COMO PERDER GORDURA",
+      "Abdominal"
+    ],
+    "episodio": "4",
+    "dirBase": "/base/D0009/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "1.png"
+    },
+    "itens": [
+      {
+        "imagem": {
+          "posicao": "D",
+          "girar": "N",
+          "nome": "2.png"
+        },
+        "titulo": "VINAGRE DE MAÇÃ",
+        "texto": "Ajuda reduzir os níveis de açúcar no sangue.\nContém ácido acético, que ajuda reduzir gordura abdominal.\n1 a 2 colheres de sopa por dia pode levar a perda de gordura visceral."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "false",
+          "nome": "3.png"
+        },
+        "titulo": "PROBIÓTICOS",
+        "texto": "Com vários benefícios, incluindo a melhoria da saúde intestinal e função imunológica.\nO equilíbrio certo pode ajudar a perder gordura da barriga.\nO kefir é um tipo de alimento probiótico muito bom para substituir o iogurte e o leite comum."
+      },
+      {
+        "imagem": {
+          "posicao": "F",
+          "girar": "false",
+          "nome": "4.png"
+        },
+        "titulo": "JEJUM INTERMITENTE",
+        "texto": "O jejum intermitente é um padrão alimentar de ciclos entre os períodos de alimentação e períodos de jejum.\nUm método popular envolve jejum todos os dias durante 16 horas e comer todas as suas refeições em um período de 8 horas."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "false",
+          "nome": "5.png"
+        },
+        "titulo": "CHÁ VERDE",
+        "texto": "Chá verde é uma bebida poderosa. Ela contém cafeína e antioxidante, que melhoram o metabolismo.\nO EGCG, é uma catequina, que ajuda perder gordura da barriga."
+      },
+      {
+        "imagem": {
+          "posicao": "F",
+          "girar": "N",
+          "nome": "6.png"
+        },
+        "titulo": "ESTILO DE VIDA",
+        "texto": "Uma forma de perder a gordura abdominal é mudar seus hábitos e consistência.\nMudar seu estilo de vida a longo prazo é a chave para perder sua barriga e mantê-lo fora de risco."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "false",
+          "nome": "7.png"
+        },
+        "titulo": "ESTILO DE VIDA CAPITULO 2",
+        "texto": "Quando você tem hábitos saudáveis a perda de gordura tende a ser um efeito natural.\nMas se você costuma comer alimentos industrializados e processados, está à um passo ver a sua saúde minguar aos poucos."
+      }
+    ],
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-3/7-domingo/",
+    "prefixo": "P2-D0009-"
+  },
+  {
+    "id": "10",
+    "modelo": "modelo-dica.psd",
+    "titulo": [
+      "ÁGUA É ESSENCIAL",
+      "Para vida"
+    ],
+    "episodio": "0",
+    "dirBase": "/base/D0010/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "1.png"
+    },
+    "itens": [
+      {
+        "imagem": {
+          "posicao": "T",
+          "girar": "S",
+          "nome": "2.png"
+        },
+        "titulo": "ÁGUA É VIDA",
+        "texto": "A água é imprescindível à vida e é fundamental que seja ingerida em abundância diariamente. É recomendado, para adultos saudáveis, a ingestão de cerca de 1.5L a 3L por dia para um ótimo funcionamento do organismo e ainda tem como funções:"
+      },
+      {
+        "imagem": {
+          "posicao": "E",
+          "girar": "true",
+          "nome": "3.png"
+        },
+        "titulo": "SANGUE",
+        "texto": "É um componente essencial do sangue, linfa e de todas as secreções corporais"
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "false",
+          "nome": "4.png"
+        },
+        "titulo": "PROCESSOS",
+        "texto": "Intervir nos processos de digestão, absorção, metabolismo e excreção do organismo"
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "false",
+          "nome": "5.png"
+        },
+        "titulo": "TEMPERATURA",
+        "texto": "Serve para manter a temperatura corporal"
+      },
+      {
+        "imagem": {
+          "posicao": "T",
+          "girar": "N",
+          "nome": "6.png"
+        },
+        "titulo": "TRANSPORTE",
+        "texto": "A água também é um importante componente do plasma sanguíneo, sendo responsável, portanto, pelo transporte de nutrientes, oxigênio e sais minerais para as células."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "false",
+          "nome": "7.png"
+        },
+        "titulo": "COMPOSIÇÃO",
+        "texto": "Além de todas essas funções, Estima-se que um ser humano adulto tenha cerca de 60% de seu corpo composto por água. No recém-nascido, essa quantidade pode atingir entre 74% e 80%."
+      }
+    ],
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-4/2-terça/",
+    "prefixo": "P2-D0010-"
+  },
+  {
+    "id": "11",
+    "modelo": "modelo-dica.psd",
+    "titulo": [
+      "FOCO NA REEDUCAÇÃO",
+      "Alimentar"
+    ],
+    "episodio": "0",
+    "dirBase": "/base/D0011/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "1.png"
+    },
+    "itens": [
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "N",
+          "nome": "2.png"
+        },
+        "titulo": "DEIXAR PARA DEPOIS",
+        "texto": "O problema é sempre deixar pra 'depois'. E esse 'depois, vai se transformando em 3kg, 5kg, 20kg extras... Aí, pra voltar ao seu peso inicial, o caminho vai ser BEM MAIOR do que seria antes. Porque não começar AGORA?"
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "false",
+          "nome": "3.png"
+        },
+        "titulo": "VOU PARA ACADEMIA",
+        "texto": "A academia pode ser sim, um bom estímulo pra você começar, mas por que esperar entrar na academia, pra depois começar a se alimentar direito? Não faz sentido!!!"
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "false",
+          "nome": "4.png"
+        },
+        "titulo": "SEGUNDA-FEIRA EU COMEÇO",
+        "texto": "Pro seu ORGANISMO, a segunda-feira é um dia como outro QUALQUER.\nSe decidiu comçear, comece hoje."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "false",
+          "nome": "5.png"
+        },
+        "titulo": "NÃO TENHO TEMPO",
+        "texto": "Na maior parte dos casos, tempo é PRIORIDADE. Sempre vai ter alguém TÃO OCUPADO quanto você, levando uma vida mais saudável. Portanto, isso NÃO é desculpa."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "S",
+          "nome": "6.png"
+        },
+        "titulo": "ESTOU SEM DINHEIRO",
+        "texto": "Se você colocar no papel TUDO o que você gasta de gordices e supérfluos, dá pra fazer uma compra BEM considerável, com produtos mais saudáveis pra sua alimentação. Faça o teste!"
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "false",
+          "nome": "7.png"
+        },
+        "titulo": "ESPERANDO OUTRA PESSOA",
+        "texto": "Ninguém precisa estar ao seu lado nessa jornada, porque ELA É SUA! Mas, se você sentir NECESSIDADE de alguém junto com você, busque a companhia de pessoas que REALMENTE querem emagrecer."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "N",
+          "nome": "8.png"
+        },
+        "titulo": "MEUS AMIGOS SÓ VÃO EM FAST FOOD",
+        "texto": "Você não precisa DEIXAR de ir a esses lugares. Alimente-se ANTES em CASA e, assim, não vai estar com fome, e muito MENOS se entregará aos alimentos TENTADORES que não têm NENHUM dos nutrientes que você PRECISA."
+      }
+    ],
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-4/4-quinta/",
+    "prefixo": "P2-D0011-"
+  },
+  {
+    "id": "12",
+    "modelo": "modelo-dica.psd",
+    "titulo": [
+      "COMER DE 3 EM",
+      "3 horas?"
+    ],
+    "episodio": "0",
+    "dirBase": "/base/D0012/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "1.png"
+    },
+    "itens": [
+      {
+        "imagem": {
+          "posicao": "T",
+          "girar": "S",
+          "nome": "2.png"
+        },
+        "titulo": "COMER OU NÃO DE 3 EM 3 HORAS?",
+        "texto": "Escutamos com frequência que devemos comer de 3 em 3 horas, não é mesmo? O corpo funciona como uma máquina que precisa de combustível para funcionar. O combustível do corpo é o alimento, que fornece energia para que possamos realizar as atividades diárias."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "N",
+          "nome": "3.png"
+        },
+        "titulo": "FICAR SEM COMER",
+        "texto": "Ao passarmos longos períodos sem se alimentar, ficamos sem energia, causando diversas reações no corpo para manter o equilíbrio corporal e os níveis de energia. Uma dessas reações é a utilização dos estoques de energia presentes nos músculos e tecido de gordura."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "S",
+          "nome": "4.png"
+        },
+        "titulo": "COMER DE 3 EM 3 HORAS",
+        "texto": "Fazer de 5 a 6 refeições por dia, é a forma mais indicada para manter o equilíbrio corporal e os níveis de energia. Porém, vale lembrar que as refeições intermediarias, ou seja, aqueles lanchinhos entre as principais refeições (café, almoço e jantar) devem ser leves e saudáveis!"
+      }
+    ],
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-4/7-domingo/",
+    "prefixo": "P2-D0012-"
+  },
+  {
+    "id": "13",
+    "modelo": "modelo-dica.psd",
+    "titulo": [
+      "COMER de 3 em 3 h",
+      "Emagrece"
+    ],
+    "episodio": "0",
+    "dirBase": "/base/D0013/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "1.png"
+    },
+    "itens": [
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "N",
+          "nome": "2.png"
+        },
+        "titulo": "JEJUM",
+        "texto": "Ficar em jejum deixa o metabolismo mais lento, prejudicando a queima de gordura, ou seja, o corpo passa a estocar mais energia e gastar menos. A chance de perder massa muscular é ainda maior, já que sem comida para gerar energia os músculos são degradados."
+      },
+      {
+        "imagem": {
+          "posicao": "F",
+          "girar": "N",
+          "nome": "3.png"
+        },
+        "titulo": "REGULARIDADE",
+        "texto": "Ao evitar ficar muito tempo sem comer, a quantidade de alimentos ingerida em cada refeição é bem menor. Então, comer de 3 em 3 horas é imprescindível para quem quer emagrecer!"
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "N",
+          "nome": "4.png"
+        },
+        "titulo": "ARMAZENAMENTO DE GORDURA",
+        "texto": "Ao passar longos períodos sem comer, o cérebro entende que estamos passando fome e, para evitar que o corpo fique sem energia, o organismo aumenta o armazenamento de gordura como uma forma de estocar energia."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "N",
+          "nome": "5.png"
+        },
+        "titulo": "MANTÉM A SACIEDADE",
+        "texto": "Realizar as refeições na proporção e nos horários corretos, prolonga a saciedade, evitando que coma em excesso nas principais refeições auxiliando no emagrecimento."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "N",
+          "nome": "6.png"
+        },
+        "titulo": "NÍVEIS DE ENERGIA CONSTANTES",
+        "texto": "Nossa energia é proveniente dos alimentos. Assim, pessoas que passam longos períodos sem se alimentar acabam ficando sem energia e apresentando sintomas como cansaço e fraqueza."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "N",
+          "nome": "7.png"
+        },
+        "titulo": "PICOS DE GLICEMIA",
+        "texto": "Evita picos de glicemia (açúcar no sangue) e insulinemia, regulando, assim, os níveis de glicemia, além de controlar o apetite."
+      },
+      {
+        "imagem": {
+          "posicao": "D",
+          "girar": "N",
+          "nome": "8.png"
+        },
+        "titulo": "METABOLISMO TRABALHANDO",
+        "texto": "A presença de alimentos ativa nosso metabolismo, aumentando o gasto calórico, diferentemente de quando passamos longos períodos sem comer, pois o metabolismo fica mais lento."
+      }
+    ],
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-1/2-terça/",
+    "prefixo": "P2-D0013-"
+  },
+  {
+    "id": "14",
+    "modelo": "modelo-dica.psd",
+    "titulo": [
+      "COMA PARA",
+      "Ser Feliz"
+    ],
+    "episodio": "0",
+    "dirBase": "/base/D0014/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "S",
+      "nome": "1.png"
+    },
+    "itens": [
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "N",
+          "nome": "2.png"
+        },
+        "titulo": "COMA PARA SER FELIZ",
+        "texto": "Veja alguns alimentos importantíssimos para atingir esse objetivo."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "N",
+          "nome": "3.png"
+        },
+        "titulo": "PROTEÍNAS",
+        "texto": "Peixe, frango, carne vermelha, ovos, queijos, leite, iogurtes, kefir."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "N",
+          "nome": "4.png"
+        },
+        "titulo": "ALIMENTOS",
+        "texto": "Carboidratos ricos em fibras, Semente de Girassol, Cavalinha, Abacate, Chocolate Amargo, Aveia, Banana, Morango, Couve, Castanha do Pará, Semente de Gergelim, Alho, Aspargo, Melancia, Gengibre, Figo, Lentilha, Uva."
+      }
+    ],
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-1/4-quinta/",
+    "prefixo": "P2-D0014-"
+  },
+  {
+    "id": "15",
+    "modelo": "modelo-dica.psd",
+    "titulo": [
+      "COMO CRIAR",
+      "Hábitos"
+    ],
+    "episodio": "0",
+    "dirBase": "/base/D0015/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "1.png"
+    },
+    "itens": [
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "N",
+          "nome": "2.png"
+        },
+        "titulo": "PARTE 1",
+        "texto": "Se você consome determinado alimento ou sobremesa todos os dias, 2x ao dia, comece reduzindo para 1x ao dia, embora que seja todos os dias."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "N",
+          "nome": "3.png"
+        },
+        "titulo": "PARTE 2",
+        "texto": "Reduza para 5x na semana, depois 3x... até chegar a 1x por semana ou em situações realmente especiais."
+      },
+      {
+        "imagem": {
+          "posicao": "C",
+          "girar": "S",
+          "nome": "4.png"
+        },
+        "titulo": "AME-SE MAIS",
+        "texto": "Reflita: por que você come o que come?"
+      }
+    ],
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-1/7-domingo/",
+    "prefixo": "P2-D0015-"
+  },
+  {
+    "id": "16",
+    "modelo": "modelo-dica.psd",
+    "episodio": "0",
+    "dirBase": "/base/D0016/",
+    "imagem": {
+      "nome": "1.png"
+    },
+    "itens": [
+      {
+        "imagem": {
+          "nome": "2.png"
+        }
+      },
+      {
+        "imagem": {
+          "nome": "3.png"
+        }
+      },
+      {
+        "imagem": {
+          "nome": "4.png"
+        }
+      }
+    ],
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-2/2-terça/",
+    "prefixo": "P2-D0016-"
+  },
+  {
+    "id": "17",
+    "modelo": "modelo-dica.psd",
+    "episodio": "0",
+    "dirBase": "/base/D0017/",
+    "imagem": {
+      "nome": "1.png"
+    },
+    "itens": [
+      {
+        "imagem": {
+          "nome": "2.png"
+        }
+      },
+      {
+        "imagem": {
+          "nome": "3.png"
+        }
+      },
+      {
+        "imagem": {
+          "nome": "4.png"
+        }
+      }
+    ],
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-2/4-quinta/",
+    "prefixo": "P2-D0017-"
+  },
+  {
+    "id": "18",
+    "modelo": "modelo-dica.psd",
+    "episodio": "0",
+    "dirBase": "/base/D0018/",
+    "imagem": {
+      "nome": "1.png"
+    },
+    "itens": [
+      {
+        "imagem": {
+          "nome": "2.png"
+        }
+      },
+      {
+        "imagem": {
+          "nome": "3.png"
+        }
+      },
+      {
+        "imagem": {
+          "nome": "4.png"
+        }
+      }
+    ],
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-2/7-domingo/",
+    "prefixo": "P2-D0018-"
+  },
+  {
+    "id": "19",
+    "modelo": "modelo-dica.psd",
+    "episodio": "0",
+    "dirBase": "/base/D0019/",
+    "imagem": {
+      "nome": "1.png"
+    },
+    "itens": [
+      {
+        "imagem": {
+          "nome": "2.png"
+        }
+      },
+      {
+        "imagem": {
+          "nome": "3.png"
+        }
+      },
+      {
+        "imagem": {
+          "nome": "4.png"
+        }
+      }
+    ],
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-3/2-terça/",
+    "prefixo": "P2-D0019-"
+  },
+  {
+    "id": "20",
+    "modelo": "modelo-dica.psd",
+    "episodio": "0",
+    "dirBase": "/base/D0020/",
+    "imagem": {
+      "nome": "1.png"
+    },
+    "itens": [
+      {
+        "imagem": {
+          "nome": "2.png"
+        }
+      },
+      {
+        "imagem": {
+          "nome": "3.png"
+        }
+      },
+      {
+        "imagem": {
+          "nome": "4.png"
+        }
+      }
+    ],
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-3/4-quinta/",
+    "prefixo": "P2-D0020-"
+  },
+  {
+    "id": "21",
+    "modelo": "modelo-dica.psd",
+    "episodio": "0",
+    "dirBase": "/base/D0021/",
+    "imagem": {
+      "nome": "1.png"
+    },
+    "itens": [
+      {
+        "imagem": {
+          "nome": "2.png"
+        }
+      },
+      {
+        "imagem": {
+          "nome": "3.png"
+        }
+      },
+      {
+        "imagem": {
+          "nome": "4.png"
+        }
+      }
+    ],
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-3/7-domingo/",
+    "prefixo": "P2-D0021-"
+  }
+]

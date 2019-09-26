@@ -1,0 +1,278 @@
+open ftp://mario972:*herbalife@ftp.marioguimaraes.com.br/
+
+cd /public_html/perderbarrigadevez.com.br/ferramentas/instagram/assets/uploads/1
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-1\1-segunda\"
+
+put P1-M0001.jpg P1-M0001-2669218649.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-1\1-segunda\"
+
+put P2-R0001-1.jpg P2-R0001-1-5466099734.jpg
+put P2-R0001-2.jpg P2-R0001-2-7647654827.jpg
+put P2-R0001-3.jpg P2-R0001-3-1239627371.jpg
+put P2-R0001-4.jpg P2-R0001-4-1436507999.jpg
+put P2-R0001-5.jpg P2-R0001-5-0411878322.jpg
+put P2-R0001-6.jpg P2-R0001-6-1626843275.jpg
+put P2-R0001-7.jpg P2-R0001-7-5320541227.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-1\1-segunda\"
+
+put P3-C0001.jpg P3-C0001-5096665383.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-1\2-terça\"
+
+put P1-M0002.jpg P1-M0002-0539635580.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-1\2-terça\"
+
+put P2-D0001-1.jpg P2-D0001-1-1163741800.jpg
+put P2-D0001-2.jpg P2-D0001-2-5772064616.jpg
+put P2-D0001-3.jpg P2-D0001-3-7671219046.jpg
+put P2-D0001-4.jpg P2-D0001-4-4768294243.jpg
+put P2-D0001-5.jpg P2-D0001-5-1530680331.jpg
+put P2-D0001-6.jpg P2-D0001-6-1104045003.jpg
+put P2-D0001-7.jpg P2-D0001-7-7888262620.jpg
+put P2-D0001-8.jpg P2-D0001-8-0493142047.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-1\2-terça\"
+
+put P3-C0002.jpg P3-C0002-5491271069.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-1\3-quarta\"
+
+put P1-M0003.jpg P1-M0003-1032884134.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-1\3-quarta\"
+
+put P2-R0002-1.jpg P2-R0002-1-0260742259.jpg
+put P2-R0002-2.jpg P2-R0002-2-4811656479.jpg
+put P2-R0002-3.jpg P2-R0002-3-3541296532.jpg
+put P2-R0002-4.jpg P2-R0002-4-0182589375.jpg
+put P2-R0002-5.jpg P2-R0002-5-6439341173.jpg
+put P2-R0002-6.jpg P2-R0002-6-4900977867.jpg
+put P2-R0002-7.jpg P2-R0002-7-6362540976.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-1\3-quarta\"
+
+put P3-C0003.jpg P3-C0003-4064760809.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-1\4-quinta\"
+
+put P1-M0004.jpg P1-M0004-0231674188.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-1\4-quinta\"
+
+put P2-D0002-1.jpg P2-D0002-1-7560263975.jpg
+put P2-D0002-2.jpg P2-D0002-2-9790765473.jpg
+put P2-D0002-3.jpg P2-D0002-3-9917686728.jpg
+put P2-D0002-4.jpg P2-D0002-4-7590755307.jpg
+put P2-D0002-5.jpg P2-D0002-5-8061672971.jpg
+put P2-D0002-6.jpg P2-D0002-6-4187631592.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-1\4-quinta\"
+
+put P3-C0004.jpg P3-C0004-8367364324.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-1\5-sexta\"
+
+put P1-M0005.jpg P1-M0005-0947688618.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-1\5-sexta\"
+
+put P2-F00011.jpg P2-F00011-0651949667.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-1\5-sexta\"
+
+put P3-C0005.jpg P3-C0005-1025887745.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-1\6-sábado\"
+
+put P1-M0006.jpg P1-M0006-8215051342.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-1\6-sábado\"
+
+put P2-R0003-1.jpg P2-R0003-1-7890049188.jpg
+put P2-R0003-2.jpg P2-R0003-2-3211314490.jpg
+put P2-R0003-3.jpg P2-R0003-3-9232615104.jpg
+put P2-R0003-4.jpg P2-R0003-4-1343647541.jpg
+put P2-R0003-5.jpg P2-R0003-5-0268628398.jpg
+put P2-R0003-6.jpg P2-R0003-6-1494897604.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-1\6-sábado\"
+
+put P3-C0006.jpg P3-C0006-6457463445.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-1\7-domingo\"
+
+put P1-M0007.jpg P1-M0007-7601367203.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-1\7-domingo\"
+
+put P2-D0003-1.jpg P2-D0003-1-5367610365.jpg
+put P2-D0003-2.jpg P2-D0003-2-8679961053.jpg
+put P2-D0003-3.jpg P2-D0003-3-0606743803.jpg
+put P2-D0003-4.jpg P2-D0003-4-1651229040.jpg
+put P2-D0003-5.jpg P2-D0003-5-5461895186.jpg
+put P2-D0003-6.jpg P2-D0003-6-1057358207.jpg
+put P2-D0003-7.jpg P2-D0003-7-6525428031.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-1\7-domingo\"
+
+put P3-C0007.jpg P3-C0007-3378318906.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-2\1-segunda\"
+
+put P1-M0008.jpg P1-M0008-0433591414.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-2\1-segunda\"
+
+put P2-R0004-1.jpg P2-R0004-1-0027006786.jpg
+put P2-R0004-2.jpg P2-R0004-2-8692492427.jpg
+put P2-R0004-3.jpg P2-R0004-3-1505514913.jpg
+put P2-R0004-4.jpg P2-R0004-4-3712270664.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-2\1-segunda\"
+
+put P3-C0008.jpg P3-C0008-7684951077.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-2\2-terça\"
+
+put P1-M0009.jpg P1-M0009-9748453796.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-2\2-terça\"
+
+put P2-D0004-1.jpg P2-D0004-1-3448422376.jpg
+put P2-D0004-2.jpg P2-D0004-2-8248381303.jpg
+put P2-D0004-3.jpg P2-D0004-3-6845907374.jpg
+put P2-D0004-4.jpg P2-D0004-4-3401254950.jpg
+put P2-D0004-5.jpg P2-D0004-5-1967909396.jpg
+put P2-D0004-6.jpg P2-D0004-6-6809928336.jpg
+put P2-D0004-7.jpg P2-D0004-7-1632997176.jpg
+put P2-D0004-8.jpg P2-D0004-8-0501866478.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-2\2-terça\"
+
+put P3-C0009.jpg P3-C0009-5145329376.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-2\3-quarta\"
+
+put P1-M0010.jpg P1-M0010-8080426571.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-2\3-quarta\"
+
+put P2-R0005-1.jpg P2-R0005-1-5501348430.jpg
+put P2-R0005-2.jpg P2-R0005-2-2080740066.jpg
+put P2-R0005-3.jpg P2-R0005-3-3598844948.jpg
+put P2-R0005-4.jpg P2-R0005-4-3881422735.jpg
+put P2-R0005-5.jpg P2-R0005-5-8375710009.jpg
+put P2-R0005-6.jpg P2-R0005-6-5693152774.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-2\3-quarta\"
+
+put P3-C0010.jpg P3-C0010-7756396025.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-2\4-quinta\"
+
+put P1-M0011.jpg P1-M0011-9358768293.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-2\4-quinta\"
+
+put P2-D0005-1.jpg P2-D0005-1-6698672431.jpg
+put P2-D0005-2.jpg P2-D0005-2-2234248859.jpg
+put P2-D0005-3.jpg P2-D0005-3-1121925934.jpg
+put P2-D0005-4.jpg P2-D0005-4-9738444377.jpg
+put P2-D0005-5.jpg P2-D0005-5-7740926446.jpg
+put P2-D0005-6.jpg P2-D0005-6-7582087495.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-2\4-quinta\"
+
+put P3-C0011.jpg P3-C0011-3677674993.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-2\5-sexta\"
+
+put P1-M0012.jpg P1-M0012-4450421785.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-2\5-sexta\"
+
+put P2-F00021.jpg P2-F00021-5613940702.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-2\5-sexta\"
+
+put P3-C0012.jpg P3-C0012-0993778462.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-2\6-sábado\"
+
+put P1-M0013.jpg P1-M0013-6416966412.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-2\6-sábado\"
+
+put P2-R0006-1.jpg P2-R0006-1-9588388907.jpg
+put P2-R0006-2.jpg P2-R0006-2-2088688212.jpg
+put P2-R0006-3.jpg P2-R0006-3-3883534326.jpg
+put P2-R0006-4.jpg P2-R0006-4-1803264054.jpg
+put P2-R0006-5.jpg P2-R0006-5-7609469052.jpg
+put P2-R0006-6.jpg P2-R0006-6-1532404178.jpg
+put P2-R0006-7.jpg P2-R0006-7-6383369894.jpg
+put P2-R0006-8.jpg P2-R0006-8-0402349822.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-2\6-sábado\"
+
+put P3-C0013.jpg P3-C0013-5960074479.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-2\7-domingo\"
+
+put P1-M0014.jpg P1-M0014-9213082758.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-2\7-domingo\"
+
+put P2-D0006-1.jpg P2-D0006-1-0801733357.jpg
+put P2-D0006-2.jpg P2-D0006-2-3864953838.jpg
+put P2-D0006-3.jpg P2-D0006-3-3248319574.jpg
+put P2-D0006-4.jpg P2-D0006-4-8735038341.jpg
+put P2-D0006-5.jpg P2-D0006-5-2715654975.jpg
+put P2-D0006-6.jpg P2-D0006-6-4507993100.jpg
+put P2-D0006-7.jpg P2-D0006-7-3984123418.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-2\7-domingo\"
+
+put P3-C0014.jpg P3-C0014-6055283274.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-3\1-segunda\"
+
+put P1-M0015.jpg P1-M0015-1101871906.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-3\1-segunda\"
+
+put P2-R0007-1.jpg P2-R0007-1-0626901984.jpg
+put P2-R0007-2.jpg P2-R0007-2-6179370841.jpg
+put P2-R0007-3.jpg P2-R0007-3-9094026746.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-3\1-segunda\"
+
+put P3-C0015.jpg P3-C0015-5083777050.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-3\2-terça\"
+
+put P1-M0016.jpg P1-M0016-6236212864.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-3\2-terça\"
+
+put P2-D0007-1.jpg P2-D0007-1-9034361868.jpg
+put P2-D0007-2.jpg P2-D0007-2-2873964228.jpg
+put P2-D0007-3.jpg P2-D0007-3-2612166919.jpg
+put P2-D0007-4.jpg P2-D0007-4-0074407286.jpg
+put P2-D0007-5.jpg P2-D0007-5-6225866952.jpg
+put P2-D0007-6.jpg P2-D0007-6-6047742091.jpg
+
+lcd "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-3\2-terça\"
+
+put P3-C0016.jpg P3-C0016-8787770533.jpg
+
+exit
+
+# Executar o script usando uma linha de comando tipo:
+# "C:\Program Files (x86)\WinSCP\WinSCP.exe" /log="E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\agendamento\scripts\WinSCP-files.log" /ini=nul /script="E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\agendamento\scripts\winscp.txt"
+
+# Para ver o log execute uma linha de comando tipo:
+# type "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\agendamento\WinSCP-files.log"

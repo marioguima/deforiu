@@ -1,0 +1,4 @@
+868514560:AAEvTAsxe_FfrbYkkfz5Su6FvEcG-edBEoY
+https://api.telegram.org/bot868514560:AAEvTAsxe_FfrbYkkfz5Su6FvEcG-edBEoY/sendMessage?chat_id=-1001476239804&teste=Teste
+
+https://api.telegram.org/bot868514560:AAEvTAsxe_FfrbYkkfz5Su6FvEcG-edBEoY/getUpdates

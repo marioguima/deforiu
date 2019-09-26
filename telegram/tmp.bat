@@ -1,0 +1,6 @@
+echo inicio 
+echo mes-001/semana-1/1-segunda/
+call "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\winscp\EnviaArquivoFTP.bat" "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\export\MARIOGUIMARAESCOACH\mes-001\semana-1\1-segunda\" "P1-M0001*" "mes-001/semana-1/1-segunda/"
+cscript "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\telegram\enviarImagemTelegram.vbs" "https://perderbarrigadevez.com.br/ferramentas/Ordem Feed/mes-001/semana-1/1-segunda/P1-M0001.jpg" 
+cscript "E:\Herbalife\Desafio do Emagrecimento Definitivo\Script - Photoshop\Instagram Coach\telegram\enviarMensagemTelegram.vbs" "OTIIIMO DIIIA :leaves: "" & chr(10) & ""Que o dia seja cheio de alegria, energia e muuuiita disposição... afinal, estamos nesta vida para ser FELIZ:heart_eyes:.:tada::confetti_ball::notes:"" & chr(10) & ""."" & chr(10) & ""."" & chr(10) & ""."" & chr(10) & "":red_circle:Você quer aprender como Eliminar de 2 a 10 cm de cintura em 5 dias. :point_right: Clique no link da Bio."" & chr(10) & ""."" & chr(10) & ""."" & chr(10) & ""."" & chr(10) & ""."" & chr(10) & ""."" & chr(10) & ""#foco #dieta #saude #treino #vidasaudavel"
+echo fim 

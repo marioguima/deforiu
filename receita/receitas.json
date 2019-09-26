@@ -1,0 +1,638 @@
+[
+  {
+    "id": "1",
+    "modelo": "modelo-receita-simples.psd",
+    "titulo": [
+      "HAMBÚRGUER DE",
+      "Berinjela"
+    ],
+    "dirBase": "/base/R0001/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "1.png"
+    },
+    "ingredientes": [
+      ". 1 berinjela picada",
+      ". 1 colher de sopa de farinha de arroz",
+      ". 1 colher de sopa de polvilho azedo",
+      ". 1 colher de sopa de gergelim torrado",
+      ". 2 colheres de sopa de salsinha e cebolinha picada",
+      ". 1 colher de café de pimenta do reino",
+      ". 3 colheres de sopa de shoyu",
+      ". 1 colher de sopa de azeite",
+      ". ½ xícara de água"
+    ],
+    "imgIngredientes": "2.png",
+    "preparo": [
+      "Preaqueça o forno a 180ºC.",
+      "Cozinhe a berinjela na água com duas colheres de shoyu.",
+      "Deixe cozinhar até ficar bem macia.",
+      "Escorra a água e coloque a berinjela em um bowl.",
+      "Junte o gergelim, salsinha e pimenta do reino e mexa bem.",
+      "Incorpore o polvilho azedo e a farinha de arroz (a massa deve ficar um pouco mole).",
+      "Com um aro, modele os hambúrgueres.",
+      "Distribua-os em uma assadeira.",
+      "Leve ao forno por 10 minutos.",
+      "Misture o restante do shoyu com o azeite e reserve.",
+      "Após o tempo destinado, retire os hambúrgueres.",
+      "Pincele-os com a mistura de shoyu e azeite.",
+      "Retorne ao forno por mais 10 minutos, ou até dourar.",
+      "Retire e sirva em seguida."
+    ],
+    "imgPreparo": "3.png",
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-1/1-segunda/",
+    "prefixo": "P2-R0001-"
+  },
+  {
+    "id": "2",
+    "modelo": "modelo-receita-etapas.psd",
+    "titulo": [
+      "PANQUECA INTEGRAL DE",
+      "Espinafre"
+    ],
+    "dirBase": "/base/R0002/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "1.png"
+    },
+    "ingredientes": [
+      {
+        "nome": "MASSA",
+        "itens": [
+          ". 200 ml de NUTREV",
+          ". 1/2 xícara (chá) de farinha de aveia",
+          ". 1/2 xícara (chá) de farinha de trigo integral",
+          ". 1 ovo"
+        ]
+      },
+      {
+        "nome": "RECHEIO",
+        "itens": [
+          ". 1 e ½ xícaras (chá) de espinafres frescos",
+          ". 1 dente de alho",
+          ". 1 colher (sobremesa) de azeite de oliva",
+          ". Queijo cottage (1 colher de sopa para cada panqueca)"
+        ]
+      }
+    ],
+    "imgIngredientes": "2.png",
+    "preparo": [
+      {
+        "nome": "MASSA",
+        "passos": [
+          "Bata os ingredientes no liquidificador.",
+          "Pré-aqueça a frigideira antiaderente.",
+          "Espalhe a massa e gire a frigideira até completá-la.",
+          "Com o auxílio de uma espátula, desgrude as bordas da massa para verificar se ela já soltou.",
+          "Vire a panqueca para cozinhar do outro lado."
+        ]
+      },
+      {
+        "nome": "RECHEIO",
+        "passos": [
+          "Em uma panela preaquecida, doure o alho no azeite, coloque o espinafre e deixe cozinhar.",
+          "Recheie com o espinafre cozido e o queijo cottage.",
+          "Sirva ainda quente.",
+          "A receita rende 8 panquecas.",
+          "O valor é de 102 kcal."
+        ]
+      }
+    ],
+    "imgPreparo": "3.png",
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-1/3-quarta/",
+    "prefixo": "P2-R0002-"
+  },
+  {
+    "id": "3",
+    "modelo": "modelo-receita-simples.psd",
+    "titulo": [
+      "FONDUE DE",
+      "Frutas"
+    ],
+    "dirBase": "/base/R0003/",
+    "imagem": {
+      "posicao": "E",
+      "girar": "N",
+      "nome": "1.png"
+    },
+    "ingredientes": [
+      ". 2 xícaras de morango",
+      ". 1 xícara de amora",
+      ". Suco de 2 laranjas",
+      ". 1 xícara de adoçante próprio para ir ao fogo",
+      ". 1 embalagem de pudim light de baunilha",
+      ". 1 xícara de damasco seco picado",
+      ". 1 xícara de mamão tipo papaia seco picado",
+      ". 1 xícara de pêra seca picada"
+    ],
+    "imgIngredientes": "2.png",
+    "preparo": [
+      "Bata os morangos e as amoras no liquidificador junto com o suco de laranja até ficar homogêneo.",
+      "Passe o preparo pela peneira e despeje o liquido peneirado em uma panela.",
+      "Leve tudo ao fogo e acrescente o adoçante.",
+      "Ferva por 15 minutos.",
+      "Acrescente o pudim de baunilha dissolvido na água conforme as instruções do fabricante e leve novamente ao fogo, sem parar de mexer, até formar um creme.",
+      "Despeje o preparo na panela de fondue e a coloque no réchaud.",
+      "Arrume as frutas secas em travessas pequenas e sirva-as mergulhadas no creme de baunilha."
+    ],
+    "imgPreparo": "3.jpg",
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-1/6-sábado/",
+    "prefixo": "P2-R0003-"
+  },
+  {
+    "id": "4",
+    "modelo": "modelo-receita-simples.psd",
+    "titulo": [
+      "BOLINHO DE COCO",
+      "Low Carb"
+    ],
+    "dirBase": "/base/R0004/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "1.png"
+    },
+    "ingredientes": [
+      ". 4 ovos",
+      ". 100g de coco ralado",
+      ". 150ml de leite de coco",
+      ". 50ml de *NutreV* dissolvido em água, conforme instrução",
+      ". 1/3 xícara de óleo de coco",
+      ". 45 g de xilitol (ou adoçante culinário similar)",
+      ". 1 colher de sopa de fermento"
+    ],
+    "imgIngredientes": "2.png",
+    "preparo": [
+      "Bata todos os ingredientes no liquidificador, menos o fermento.",
+      "Passe para uma vasilha, incorpore o fermento e asse em forminhas para muffin em forno 180 graus por 20 minutos ou até estarem assados."
+    ],
+    "imgPreparo": "3.png",
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-2/1-segunda/",
+    "prefixo": "P2-R0004-"
+  },
+  {
+    "id": "5",
+    "modelo": "modelo-receita-simples.psd",
+    "titulo": [
+      "BOLO",
+      "Prestígio"
+    ],
+    "dirBase": "/base/R0005/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "1.png"
+    },
+    "ingredientes": [
+      ". 1 ovo",
+      ". 2 colheres de sopa de farinha de aveia ou farinha de amêndoas",
+      ". 1 colher de sopa de açúcar de coco (ou xylitol ou qualquer outro adoçante)",
+      ". 1 colher de sopa de cacau ou alfarroba",
+      ". 1 colher de sopa de Shake Herbalife Chocolate (ou qualquer sabor de sua preferência)",
+      ". 1 colher de sopa de Proteína de soja Herbalife",
+      ". 1 colher de sopa de coco ralado sem açúcar",
+      ". 1 tampinha de essência de baunilha",
+      ". 1 colher de café de fermento em pó"
+    ],
+    "imgIngredientes": "2.png",
+    "preparo": [
+      "Em um recipiente coloque todos os ingredientes e misture bem, até virar uma massa homogênea.",
+      "Leve ao microondas por 2 min ou coloque em uma forminha de silicone e asse por 20 min.",
+      "A calda é 1 colher de sopa de shake de chocolate e 1 colher de shake de coco herbalife. Acrescente água até formar uma pastinha tipo cobertura.",
+      "Salpique, por cima, coco ralado sem açúcar e amêndoas em lascas."
+    ],
+    "imgPreparo": "3.png",
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-2/3-quarta/",
+    "prefixo": "P2-R0005-"
+  },
+  {
+    "id": "6",
+    "modelo": "modelo-receita-etapas.psd",
+    "titulo": [
+      "CHURROS CASEIRO",
+      "Light"
+    ],
+    "dirBase": "/base/R0006/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "1.jpg"
+    },
+    "ingredientes": [
+      {
+        "nome": "MASSA",
+        "itens": [
+          ". 1 xícara (chá) de água",
+          ". 2 colheres (sopa) de açúcar de coco",
+          ". 1 pitada de sal",
+          ". 2 colheres (sopa) de óleo de coco",
+          ". 1 xícara (chá) de farinha de trigo integral"
+        ]
+      },
+      {
+        "nome": "RECHEIO",
+        "itens": [
+          ". Geleia de frutas vermelhas 100% natural"
+        ]
+      },
+      {
+        "nome": "COBERTURA",
+        "itens": [
+          ". Açúcar mascavo e canela em pó para polvilhar"
+        ]
+      }
+    ],
+    "imgIngredientes": "2.jpg",
+    "preparo": [
+      {
+        "nome": "PASSO A PASSO",
+        "passos": [
+          "Em uma panela, coloque a água e espere ferver.",
+          "Desligue o fogo e misture o açúcar de coco, o sal e o óleo de coco.",
+          "Em seguida, vá adicionando a farinha e mexendo até que a massa solte do fundo da panela.",
+          "Ponha a massa em uma bisnaga própria para churros ou em saco para confeitar, cortando no formato dos churros.",
+          "Faça um furo no churro, mas sem abrir do outro lado, para que o recheio não vaze.",
+          "Leve para o forno pré-aquecido por 20 ou 30 minutos, até que fique assado.",
+          "Retire do forno e recheie com a geleia.",
+          "Polvilhe o açúcar com a canela e sirva."
+        ]
+      }
+    ],
+    "imgPreparo": "3.jpg",
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-2/6-sábado/",
+    "prefixo": "P2-R0006-"
+  },
+  {
+    "id": "7",
+    "modelo": "modelo-receita-simples.psd",
+    "titulo": [
+      "PÃO FIT DE",
+      "Baunilha"
+    ],
+    "dirBase": "/base/R0007/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "1.jpg"
+    },
+    "ingredientes": [
+      ". 6 colheres de Shake de Baunilha Herbalife",
+      ". 6 colheres de nutrev",
+      ". 1/2 de proteína",
+      ". 1 ovo inteiro + 3 claras",
+      ". 1 colher (chá) de fermento"
+    ],
+    "imgIngredientes": "2.jpg",
+    "preparo": [
+      "Mistura todos os ingredientes e faça bolinhas com as mãos, colocando em forma untada com manteiga e enfarinhada, com espaço entre elas para a massa crescer!",
+      "Pré aqueça o forno em 180º e coloque para assar.",
+      "Aguarde de 15 a 25 minutos e pronto!",
+      "É só degustar."
+    ],
+    "imgPreparo": "3.jpg",
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-3/1-segunda/",
+    "prefixo": "P2-R0007-"
+  },
+  {
+    "id": "8",
+    "modelo": "modelo-receita-simples.psd",
+    "titulo": [
+      "ESPAGUETE",
+      "Ao pesto"
+    ],
+    "dirBase": "/base/R0008/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "1.jpg"
+    },
+    "ingredientes": [
+      ". 300g de espinafres cozidos picados;",
+      ". 1/3 xícara (chá) de queijo cottage;",
+      ". 1/3 xícara de manjericão fresco picado ou 2 colheres (sopa) de manjericão seco, triturado;",
+      ". 2 colheres (sopa) de queijo parmesão light ralado;",
+      ". 2 dentes de alho picados;",
+      ". 500g de macarrão tipo espaguete ou fusilli."
+    ],
+    "imgIngredientes": "2.jpg",
+    "preparo": [
+      "Prepare o pesto colocando no liquidificador ou processador de alimentos espinafre, água, queijo cottage, manjericão, queijo parmesão e alho.",
+      "Bata até formar uma pasta homogênea.",
+      "Cozinhe o macarrão até ficar al dente e escorra.",
+      "Em uma refratário, coloque o macarrão e acrescente cerca de ½ xícara do pesto enquanto a massa ainda está quente.",
+      "Misture bem e sirva em seguida."
+    ],
+    "imgPreparo": "3.jpg",
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-3/3-quarta/",
+    "prefixo": "P2-R0008-"
+  },
+  {
+    "id": "9",
+    "modelo": "modelo-receita-simples.psd",
+    "titulo": [
+      "PAMONHA",
+      "Light"
+    ],
+    "dirBase": "/base/R0009/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "1.jpg"
+    },
+    "ingredientes": [
+      ". 8 espigas de milho-verde limpas (reserve as palhas)",
+      ". 2 xícaras (chá) de nutrev",
+      ". ½ xícara (chá) de açúcar-mascavo"
+    ],
+    "imgIngredientes": "2.jpg",
+    "preparo": [
+      "Com um ralador grosso, rale as espigas ou retire os grãos de milho da espiga com uma faca.",
+      "Use um processador de alimentos para triturá-los.",
+      "Em uma tigela, junte o nutrev, o açúcar e o milho ralado ou processado.",
+      "Misture os ingredientes até que o açúcar se dissolva.",
+      "À parte, lave e passe por água fervente as palhas de milho.",
+      "Forme pequenos sacos colocando uma palha dentro da outra.",
+      "Dobre uma das extremidades ou amarre com uma tira da própria palha.",
+      "Forme 8 sacos.",
+      "Preencha cada saco com o recheio de milho.",
+      "Dobre as extremidades e amarre a superfície para prender bem as dobras.",
+      "Em uma panela com bastante água (fervente), coloque as pamonhas para ferver durante 30 minutos.",
+      "Retire da panela e aguarde esfriar um pouco antes de servir.",
+      "Rende 1 pamonha por porção."
+    ],
+    "imgPreparo": "3.jpg",
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-3/6-sábado/",
+    "prefixo": "P2-R0009-"
+  },
+  {
+    "id": "10",
+    "modelo": "modelo-receita-simples.psd",
+    "titulo": [
+      "NHOQUE DE RICOTA",
+      "Com espinafre"
+    ],
+    "dirBase": "/base/R0010/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "N",
+      "nome": "1.jpg"
+    },
+    "ingredientes": [
+      ". 625 gr de espinafre",
+      ". 500 gr de ricota",
+      ". 4 gemas",
+      ". 200 gr farinha de trigo",
+      ". 250 gr de queijo parmesão",
+      ". 5 gr noz de moscada ralada",
+      ". 5 gr de sal",
+      ". 5 gr de pimenta do reino"
+    ],
+    "imgIngredientes": "2.jpg",
+    "preparo": [
+      "Limpe, lave, separe as folhas do espinafre e as deixe de molho na água.",
+      "Numa panela coloque água e deixe ferver.",
+      "Quando levantar a fervura, coloque as folhas de espinafre.",
+      "Tampe a panela e deixe ficar por mais ou menos 5 minutos.",
+      "Retire o espinafre da água fervente e jogue as folhas em água com gelo, por mais ou menos 2 minutos.",
+      "Escoe e aperte com as mãos para tirar toda a água.",
+      "Pique grosseiramente.",
+      "Desmanche bem a ricota e a ela misture bem todos os ingredientes.",
+      "Estique a massa em rolinhos e corte em minicubinhos.",
+      "Trabalhe os cubinhos para arredondá-los.",
+      "Ferva a água e cozinhe os nhoques.",
+      "Sirva gratinado com molho branco, com molho de tomate ou apenas com manteiga derretida e queijo parmesão."
+    ],
+    "imgPreparo": "3.jpg",
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-4/1-segunda/",
+    "prefixo": "P2-R0010-"
+  },
+  {
+    "id": "11",
+    "modelo": "modelo-receita-simples.psd",
+    "titulo": [
+      "BRIGADEIRO FUNCIONAL",
+      "de Banana"
+    ],
+    "dirBase": "/base/R0011/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "S",
+      "nome": "1.jpg"
+    },
+    "ingredientes": [
+      ". 2 bananas bem maduras",
+      ". 2 colheres de cacau em pó",
+      ". 5 colheres de leite em pó desnatado"
+    ],
+    "imgIngredientes": "2.jpg",
+    "preparo": [
+      "Coloque 2 bananas bem maduras em uma tigela e esquente no micro-ondas por 2 minutos.",
+      "Retire do micro e adicione o leite em pó desnatado e o cacau em pó, aos poucos, até dar o ponto desejado.",
+      "Se quiser dar mais consistência adicione mais um pouquinho do leite em pó desnatado.",
+      "Misture bem e enrole.",
+      "Passe no cacau em pó ou no granulado.",
+      "Leve a geladeira por 20 minutos."
+    ],
+    "imgPreparo": "3.jpg",
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-4/3-quarta/",
+    "prefixo": "P2-R0011-"
+  },
+  {
+    "id": "12",
+    "modelo": "modelo-receita-simples.psd",
+    "titulo": [
+      "PÃO DE QUEIJO DE",
+      "Frigideira"
+    ],
+    "dirBase": "/base/R0012/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "S",
+      "nome": "1.png"
+    },
+    "ingredientes": [
+      ". 1 ovo",
+      ". 1 Col. Sopa Creme de Ricota ou outro queijo (opcional)",
+      ". 1 Col. Sopa de polvilho doce",
+      ". 1 Col. Sopa de polvilho azedo",
+      ". 1 Col. Sopa de farinha de linhaça"
+    ],
+    "imgIngredientes": "2.png",
+    "preparo": [
+      "Coloca metade da massa, recheia (usei queijo minas curado) e cobre com a outra metade da massa.",
+      "Fogo baixo, e deixa dourar dos dois lados.",
+      "Bom apetite!"
+    ],
+    "imgPreparo": "3.png",
+    "dirExportar": "/export/[ASSINATURA]/mes-001/semana-4/6-sábado/",
+    "prefixo": "P2-R0012-"
+  },
+  {
+    "id": "13",
+    "modelo": "modelo-receita-simples.psd",
+    "titulo": [
+      "PÃO DE QUEIJO SEM",
+      "Farinha"
+    ],
+    "dirBase": "/base/R0013/",
+    "imagem": {
+      "posicao": "C",
+      "girar": "S",
+      "nome": "1.png"
+    },
+    "ingredientes": [
+      ". 3 ovos",
+      ". 1 caixinha de creme de leite light",
+      ". 1 xícara de queijo ralado",
+      ". 1/2 xícara de gergelim",
+      ". 1 colher (sopa) rasa de fermento em pó",
+      ". Sal e temperos à gosto"
+    ],
+    "imgIngredientes": "2.png",
+    "preparo": [
+      "Bate tudo no liquidificador, deixando o fermento para acrescentar por último.",
+      "Coloque a massa em forminhas e asse por 25 minutos no forno médio",
+      "Rendimento: 12 unidades"
+    ],
+    "imgPreparo": "3.png",
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-1/1-segunda/",
+    "prefixo": "P2-R0013-"
+  },
+  {
+    "id": "14",
+    "modelo": "modelo-receita-simples.psd",
+    "titulo": [
+      "SUCO BOA",
+      "Saúde"
+    ],
+    "dirBase": "/base/R0014/",
+    "imagem": {
+      "posicao": "E",
+      "girar": "S",
+      "nome": "1.png"
+    },
+    "ingredientes": [
+      ". 3 morangos",
+      ". 3 amoras",
+      ". 400 ml de Chá Herbal Concentrate"
+    ],
+    "imgIngredientes": "2.png",
+    "preparo": [
+      "Bata tudo no liquidificador",
+      "Adoce como quiser",
+      "Sirva com cubos de gelo."
+    ],
+    "imgPreparo": "3.jpg",
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-1/3-quarta/",
+    "prefixo": "P2-R0014-"
+  },
+  {
+    "id": "15",
+    "modelo": "modelo-receita-simples.psd",
+    "titulo": [
+      "HAMBÚRGUER DE",
+      "Atum"
+    ],
+    "dirBase": "/base/R0015/",
+    "imagem": {
+      "posicao": "E",
+      "girar": "S",
+      "nome": "1.png"
+    },
+    "ingredientes": [
+      ". 2 latas de atum  (sólido, ao natural)",
+      ". 1 ovo",
+      ". 1 cebola",
+      ". 2 colheres de sopa de farinha de coco",
+      ". 1 colher de sopa de farinha de linhaça",
+      ". 1/2 xícara de chá de salsinha (ou a gosto)",
+      ". Sal, pimenta a gosto"
+    ],
+    "imgIngredientes": "2.png",
+    "preparo": [
+      "Adicione todos os ingredientes, misture bem.",
+      "Deixe descansar por alguns minutos.",
+      "Forme os hambúrgueres apertando a massa com as mãos.",
+      "Em uma frigideira antiaderente, coloque um fio de azeite e coloque o hambúrguer.",
+      "Só depois de bem dourado, vire.",
+      "Rende 6 porções."
+    ],
+    "imgPreparo": "3.png",
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-1/6-sábado/",
+    "prefixo": "P2-R0015-"
+  },
+  {
+    "id": "16",
+    "modelo": "modelo-receita-simples.psd",
+    "dirBase": "/base/R0016/",
+    "imagem": {
+      "nome": "1.png"
+    },
+    "imgIngredientes": "2.png",
+    "imgPreparo": "3.png",
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-2/1-segunda/",
+    "prefixo": "P2-R0016-"
+  },
+  {
+    "id": "17",
+    "modelo": "modelo-receita-simples.psd",
+    "dirBase": "/base/R0017/",
+    "imagem": {
+      "nome": "1.png"
+    },
+    "imgIngredientes": "2.png",
+    "imgPreparo": "3.jpg",
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-2/3-quarta/",
+    "prefixo": "P2-R0017-"
+  },
+  {
+    "id": "18",
+    "modelo": "modelo-receita-simples.psd",
+    "dirBase": "/base/R0018/",
+    "imagem": {
+      "nome": "1.png"
+    },
+    "imgIngredientes": "2.png",
+    "imgPreparo": "3.png",
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-2/6-sábado/",
+    "prefixo": "P2-R0018-"
+  },
+  {
+    "id": "19",
+    "modelo": "modelo-receita-simples.psd",
+    "dirBase": "/base/R0019/",
+    "imagem": {
+      "nome": "1.png"
+    },
+    "imgIngredientes": "2.png",
+    "imgPreparo": "3.png",
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-3/1-segunda/",
+    "prefixo": "P2-R0019-"
+  },
+  {
+    "id": "20",
+    "modelo": "modelo-receita-simples.psd",
+    "dirBase": "/base/R0020/",
+    "imagem": {
+      "nome": "1.png"
+    },
+    "imgIngredientes": "2.png",
+    "imgPreparo": "3.jpg",
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-3/3-quarta/",
+    "prefixo": "P2-R0020-"
+  },
+  {
+    "id": "21",
+    "modelo": "modelo-receita-simples.psd",
+    "dirBase": "/base/R0021/",
+    "imagem": {
+      "nome": "1.png"
+    },
+    "imgIngredientes": "2.png",
+    "imgPreparo": "3.png",
+    "dirExportar": "/export/[ASSINATURA]/mes-002/semana-3/6-sábado/",
+    "prefixo": "P2-R0021-"
+  }
+]
